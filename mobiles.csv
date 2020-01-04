@@ -1,0 +1,505 @@
+mobile,Model,sim type,display size,resolution,processor type,processor core,internal storage,ram,camera,network type,battery
+"Redmi Note 7S (Sapphire Blue, 64 GB)  (4 GB RAM)",MZB7742IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,64 GB,4 GB,48MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Realme 5 (Crystal Purple, 32 GB)  (3 GB RAM)",RMX1911,Dual Sim,16.51 cm (6.5 inch),720 x 1600 pixels,Qualcomm Snapdragon 665 2 GHz,Octa Core,32 GB,3 GB,"12MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",5000 mAH
+"Realme 5 (Crystal Blue, 64 GB)  (4 GB RAM)",RMX1911,Dual Sim,16.51 cm (6.5 inch),720 x 1600 pixels,Qualcomm Snapdragon 665 2 GHz,Octa Core,64 GB,4 GB,"12MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",5000 mAH
+"Realme 5 (Crystal Purple, 64 GB)  (4 GB RAM)",RMX1911,Dual Sim,16.51 cm (6.5 inch),720 x 1600 pixels,Qualcomm Snapdragon 665 2 GHz,Octa Core,64 GB,4 GB,"12MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",5000 mAH
+"Realme 5 (Crystal Blue, 128 GB)  (4 GB RAM)",RMX1911,Dual Sim,16.51 cm (6.5 inch),720 x 1600 pixels,Qualcomm Snapdragon 665 2 GHz,Octa Core,128 GB,4 GB,"12MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",5000 mAH
+"Realme 5 (Crystal Blue, 32 GB)  (3 GB RAM)",RMX1911,Dual Sim,16.51 cm (6.5 inch),720 x 1600 pixels,Qualcomm Snapdragon 665 2 GHz,Octa Core,32 GB,3 GB,"12MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",5000 mAH
+"Realme 5 (Crystal Purple, 128 GB)  (4 GB RAM)",RMX1911,Dual Sim,16.51 cm (6.5 inch),720 x 1600 pixels,Qualcomm Snapdragon 665 2 GHz,Octa Core,128 GB,4 GB,"12MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",5000 mAH
+"Redmi Note 7 Pro (Neptune Blue, 64 GB)  (4 GB RAM)",MZB7464IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 675,Octa Core,64 GB,4 GB,48MP + 5MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Realme C2 (Diamond Blue, 32 GB)  (3 GB RAM)",RMX1941,Dual Sim,15.49 cm (6.1 inch),1560 x 720 pixels,MediaTek P22 Octa Core 2.0 GHz,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Realme C2 (Diamond Black, 32 GB)  (2 GB RAM)",RMX1941,Dual Sim,15.49 cm (6.1 inch),1560 x 720 pixels,MediaTek P22 Octa Core 2.0 GHz,Octa Core,32 GB,2 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Realme C2 (Diamond Blue, 32 GB)  (2 GB RAM)",RMX1941,Dual Sim,15.49 cm (6.1 inch),1560 x 720 pixels,MediaTek P22 Octa Core 2.0 GHz,Octa Core,32 GB,2 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Realme C2 (Diamond Black, 32 GB)  (3 GB RAM)",RMX1941,Dual Sim,15.49 cm (6.1 inch),1560 x 720 pixels,MediaTek P22 Octa Core 2.0 GHz,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Realme C2 (Diamond Ruby, 32 GB)  (3 GB RAM)",RMX1941,Dual Sim,15.49 cm (6.1 inch),1560 x 720 pixels,MediaTek P22 Octa Core 2.0 GHz,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Realme C2 (Diamond Sapphire, 32 GB)  (3 GB RAM)",RMX1941,Dual Sim,15.49 cm (6.1 inch),1560 x 720 pixels,MediaTek P22 Octa Core 2.0 GHz,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Redmi Note 7S (Onyx Black, 32 GB)  (3 GB RAM)",MZB7744IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,32 GB,3 GB,48MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Vivo Z1Pro (Sonic Blue, 128 GB)  (6 GB RAM)",Vivo 1951/PD1911F_EX,Dual Sim,16.59 cm (6.53 inch),2340 x 1080 pixels,Qualcomm Snapdragon 712 AIE Octa Core 2.3GHz,Octa Core,128 GB,6 GB,16MP + 8MP + 2MP,"3G, 4G VOLTE, 4G, 2G",5000 mAh
+"Vivo Z1Pro (Sonic Black, 64 GB)  (4 GB RAM)",Vivo 1951/PD1911F_EX,Dual Sim,16.59 cm (6.53 inch),2340 x 1080 pixels,Qualcomm Snapdragon 712 AIE Octa Core 2.3GHz,Octa Core,64 GB,4 GB,16MP + 8MP + 2MP,"3G, 4G VOLTE, 4G, 2G",5000 mAh
+"Vivo Z1Pro (Sonic Black, 128 GB)  (6 GB RAM)",Vivo 1951/PD1911F_EX,Dual Sim,16.59 cm (6.53 inch),2340 x 1080 pixels,Qualcomm Snapdragon 712 AIE Octa Core 2.3GHz,Octa Core,128 GB,6 GB,16MP + 8MP + 2MP,"3G, 4G VOLTE, 4G, 2G",5000 mAh
+"Vivo Z1Pro (Sonic Blue, 64 GB)  (4 GB RAM)",Vivo 1951/PD1911F_EX,Dual Sim,16.59 cm (6.53 inch),2340 x 1080 pixels,Qualcomm Snapdragon 712 AIE Octa Core 2.3GHz,Octa Core,64 GB,4 GB,16MP + 8MP + 2MP,"3G, 4G VOLTE, 4G, 2G",5000 mAh
+"Vivo Z1Pro (Sonic Blue, 64 GB)  (6 GB RAM)",Vivo 1951/PD1911F_EX,Dual Sim,16.59 cm (6.53 inch),2340 x 1080 pixels,Qualcomm Snapdragon 712 AIE Octa Core 2.3GHz,Octa Core,64 GB,6 GB,16MP + 8MP + 2MP,"3G, 4G VOLTE, 4G, 2G",5000 mAh
+"Vivo Z1Pro (Sonic Black, 64 GB)  (6 GB RAM)",Vivo 1951/PD1911F_EX,Dual Sim,16.59 cm (6.53 inch),2340 x 1080 pixels,Qualcomm Snapdragon 712 AIE Octa Core 2.3GHz,Octa Core,64 GB,6 GB,16MP + 8MP + 2MP,"3G, 4G VOLTE, 4G, 2G",5000 mAh
+"Realme 3 Pro (Lightning Purple, 128 GB)  (6 GB RAM)",RMX1851,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE,Octa Core,128 GB,6 GB,16MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4045 mAh
+"Realme 3 Pro (Nitro Blue, 64 GB)  (4 GB RAM)",RMX1851,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE,Octa Core,64 GB,4 GB,16MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4045 mAh
+"Realme 3 Pro (Nitro Blue, 64 GB)  (6 GB RAM)",RMX1851,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE,Octa Core,64 GB,6 GB,16MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4045 mAh
+"Realme 3 (Diamond Red, 64 GB)  (4 GB RAM)",RMX1825,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MediaTek Helio P70 Octa Core 2.1 GHz AI,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Realme 3 (Dynamic Black, 64 GB)  (4 GB RAM)",RMX1825,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MediaTek Helio P70 Octa Core 2.1 GHz AI,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Realme 3 (Radiant Blue, 32 GB)  (3 GB RAM)",RMX1825,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MediaTek Helio P70 Octa Core 2.1 GHz AI,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Realme 3 (Dynamic Black, 32 GB)  (3 GB RAM)",RMX1825,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MediaTek Helio P70 Octa Core 2.1 GHz AI,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Realme 3 (Radiant Blue, 64 GB)  (4 GB RAM)",RMX1825,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MediaTek Helio P70 Octa Core 2.1 GHz AI,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Vivo Z1x (Phantom Purple, 64 GB)  (6 GB RAM)","Vivo 1917, PD1921F_EX",Dual Sim,16.21 cm (6.38 inch),2340 x 1080 Pixels,Qualcomm Snapdragon 712 AIE,Octa Core,64 GB,6 GB,48MP + 8MP + 2MP,"4G, 3G, 2G",4500 mAh
+"Realme 5 Pro (Sparkling Blue, 128 GB)  (8 GB RAM)",RMX1971,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz,Octa Core,128 GB,8 GB,"48MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",4035 mAh
+"Realme 5 Pro (Sparkling Blue, 64 GB)  (6 GB RAM)",RMX1971,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz,Octa Core,64 GB,6 GB,"48MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",4035 mAh
+"Infinix Hot 8 (Cosmic Purple, 64 GB)  (4 GB RAM)",X650C,Dual Sim,16.56 cm (6.52 inch),720 x 1600 pixels,Helio P22 (MTK6762),Octa Core,64 GB,4 GB,13MP + 2MP,"4G, 3G, 2G",5000 mAh
+"Realme XT (Pearl White, 64 GB)  (4 GB RAM)",RMX1921,Dual Sim,16.26 cm (6.4 inch),1080 x 2340 Pixels,Qualcomm 712,Octa Core,64 GB,4 GB,"64MP + 8, 2, 2MP","4G, 2G, 3G",4000 mAh
+"Realme 3 (Diamond Red, 32 GB)  (3 GB RAM)",RMX1825,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MediaTek Helio P70 Octa Core 2.1 GHz AI,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Realme 3 (Dynamic Black, 64 GB)  (3 GB RAM)",RMX1825,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MediaTek Helio P70 Octa Core 2.1 GHz AI,Octa Core,64 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Realme 3 (Radiant Blue, 64 GB)  (3 GB RAM)",RMX1825,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MediaTek Helio P70 Octa Core 2.1 GHz AI,Octa Core,64 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"OPPO F11 (Fluorite Purple, 128 GB)  (6 GB RAM)",CPH1911,Dual Sim,16.59 cm (6.53 inch),1080 x 2340 pixels,MTK MT6771V (P70),Octa Core,128 GB,6 GB,48MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4020 mAh
+"Vivo Z1x (Fusion Blue, 64 GB)  (6 GB RAM)","Vivo 1917, PD1921F_EX",Dual Sim,16.21 cm (6.38 inch),2340 x 1080 Pixels,Qualcomm Snapdragon 712 AIE,Octa Core,64 GB,6 GB,48MP + 8MP + 2MP,"4G, 3G, 2G",4500 mAh
+"Realme 5 Pro (Crystal Green, 128 GB)  (8 GB RAM)",RMX1971,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz,Octa Core,128 GB,8 GB,"48MP + 8, 2, 2MP","4G VOLTE, 3G, 2G",4035 mAh
+"Redmi 8A (Midnight Black, 32 GB)  (2 GB RAM)",MZB8298IN,Dual Sim,15.8 cm (6.22 inch),1520 x 720 Pixels,Qualcomm Snapdragon 439,Octa Core,32 GB,2 GB,12MP,"4G VOLTE, 3G, 2G",5000 mAh
+"Redmi 7A (Matte Blue, 32 GB)  (2 GB RAM)",MZB8008IN,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,Qualcomm Snapdragon 439,Octa Core,32 GB,2 GB,12MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Redmi Note 7 Pro (Neptune Blue, 128 GB)  (6 GB RAM)",MZB7700IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 675,Octa Core,128 GB,6 GB,48MP + 5MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Redmi Note 7 Pro (Astro Moonlight White, 64 GB)  (4 GB RAM)",MZB8005IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 675,Octa Core,64 GB,4 GB,48MP + 5MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Infinix Hot 8 (Quetzal Cyan, 64 GB)  (4 GB RAM)",X650C,Dual Sim,16.56 cm (6.52 inch),720 x 1600 pixels,Helio P22 (MTK6762),Octa Core,64 GB,4 GB,13MP + 2MP,"4G, 3G, 2G",5000 mAh
+"OPPO F11 Pro (Aurora Green, 64 GB)  (6 GB RAM)",CPH1969,Dual Sim,16.51 cm (6.5 inch),2340 x 1080 pixels,MediaTek Helio P70 Octa Core 2.1 GHz,Octa Core,64 GB,6 GB,48MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"OPPO F11 Pro (Thunder Black, 64 GB)  (6 GB RAM)",CPH1969,Dual Sim,16.51 cm (6.5 inch),2340 x 1080 pixels,MediaTek Helio P70 Octa Core 2.1 GHz,Octa Core,64 GB,6 GB,48MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Motorola One Macro (Space Blue, 64 GB)  (4 GB RAM)",PAGS0005IN,Dual Sim,15.75 cm (6.2 inch),1520 x 720 Pixels,MediaTek Helio P70,Octa Core,64 GB,4 GB,"13MP + 2, 2MP","4G, 3G, 2G",4000 mAh
+"OPPO K1 (Piano Black, 64 GB)  (4 GB RAM)",CPH1893,Dual Sim,16.28 cm (6.41 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 Octa Core 1.95 GHz,Octa Core,64 GB,4 GB,16MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3600 mAh
+"Realme 2 Pro (Black Sea, 64 GB)  (6 GB RAM)",RMX1801,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE,Octa Core,64 GB,6 GB,16MP + 2MP,"3G, 4G VOLTE, 2G",3500 mAh
+"Realme 2 Pro (Ice Lake, 64 GB)  (4 GB RAM)",RMX1801,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE,Octa Core,64 GB,4 GB,16MP + 2MP,"3G, 4G VOLTE, 2G",3500 mAh
+"Realme 2 Pro (Blue Ocean, 64 GB)  (4 GB RAM)",RMX1801,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE,Octa Core,64 GB,4 GB,16MP + 2MP,"3G, 4G VOLTE, 2G",3500 mAh
+"Realme 2 Pro (Black Sea, 64 GB)  (4 GB RAM)",RMX1801,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE,Octa Core,64 GB,4 GB,16MP + 2MP,"3G, 4G VOLTE, 2G",3500 mAh
+"Redmi 8 (Emerald Green, 64 GB)  (4 GB RAM)",MZB8256IN,Dual Sim,15.8 cm (6.22 inch),1520 x 720 Pixels,Qualcomm Snapdragon 439,Octa Core,64 GB,4 GB,12MP + 2MP,"4G VOLTE, 3G, 2G",5000 mAh
+"Redmi 7A (Matte Black, 16 GB)  (2 GB RAM)",MZB7798IN,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,Qualcomm Snapdragon 439,Octa Core,16 GB,2 GB,12MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Redmi 7A (Matte Gold, 16 GB)  (2 GB RAM)",MZB7995IN,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,Qualcomm Snapdragon 439,Octa Core,16 GB,2 GB,12MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Mi A3 (More Than White, 64 GB)  (4 GB RAM)",m1906f9si,Dual Sim,15.44 cm (6.08 inch),1560 x 720$$Pixels,Qualcomm Snapdragon 665 octa core,Octa Core,64 GB,4 GB,48MP + 8MP,"4G VOLTE, 3G, 2G",4030 mAh
+"Vivo V15 (Frozen Black, 64 GB)  (6 GB RAM)",(Vivo1819/PD1831F_EX),Dual Sim,16.59 cm (6.53 inch),2340 x 1080 pixels,MTK Helio P70,Octa Core,64 GB,6 GB,12MP + 5MP + 8MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Redmi Go (Black, 8 GB)  (1 GB RAM)",MZB7184IN,Dual Sim,12.7 cm (5 inch),1280 x 720 pixels,Qualcomm Snapdragon 425,Quad Core,8 GB,1 GB,8MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Vivo Y91 (Nebula Purple, 32 GB)  (3 GB RAM)",(Vivo 1811/PD1818BF_EX),Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,Qualcomm Snapdragon 439,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4030 mAh
+"Redmi Note 5 Pro (Gold, 64 GB)  (6 GB RAM)",MZB6084IN,Dual Sim,15.21 cm (5.99 inch),2160 x 1080 Pixels,Qualcomm Snapdragon 636,Octa Core,64 GB,6 GB,12MP + 5MP,"3G, 4G VOLTE, 4G",4000 mAh
+Lava A1  (Gold),Lava_A1,Dual Sim,4.5 cm (1.77 inch),240x320 Pixels,24 MB,4 MB,0.3MP,2G,800 mAh
+Lava A1  (Black),Lava_A1,Dual Sim,4.5 cm (1.77 inch),240x320 Pixels,24 MB,24 MB,0.3MP,2G,800 mAh
+Lava A1  (White/Grey),Lava_A1,Dual Sim,4.5 cm (1.77 inch),240x320 Pixels,24 MB,24 MB,0.3MP,2G,800 mAh
+"Redmi Note 7 Pro (Astro Moonlight White, 128 GB)  (6 GB RAM)",MZB8004IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 675,Octa Core,128 GB,6 GB,48MP + 5MP,2G,4000 mAh
+"Redmi 7A (Matte Gold, 32 GB)  (2 GB RAM)",MZB7989IN,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,Qualcomm Snapdragon 439,Octa Core,32 GB,2 GB,12MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Redmi Y3 (Prime Black, 64 GB)  (4 GB RAM)",M1810F6I,Dual Sim,15.9 cm (6.26 inch),1520 x 720 pixels,Qualcomm Snapdragon 632,Octa Core,64 GB,4 GB,12MP + 2MP,"3G, 4G, 2G",4000 mAh
+"Redmi Y3 (Bold Red, 32 GB)  (3 GB RAM)",M1810F6I,Dual Sim,15.9 cm (6.26 inch),1520 x 720 pixels,Qualcomm Snapdragon 632,Octa Core,32 GB,3 GB,12MP + 2MP,"3G, 4G, 2G",4000 mAh
+"Redmi Y3 (Prime Black, 32 GB)  (3 GB RAM)",M1810F6I,Dual Sim,15.9 cm (6.26 inch),1520 x 720 pixels,Qualcomm Snapdragon 632,Octa Core,32 GB,3 GB,12MP + 2MP,"3G, 4G, 2G",4000 mAh
+"Apple iPhone 7 Plus (Black, 32 GB)",MNQM2HN/A,Single Sim,13.97 cm (5.5 inch),1920 x 1080 Pixels,Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor,32 GB,12MP + 12MP,"3G, 4G VOLTE, 2G"
+"OPPO A3s (Purple, 32 GB)  (3 GB RAM)",CPH1803,Dual Sim,15.75 cm (6.2 inch),1520 x 720 Pixels,Qualcomm Snapdragon 450,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G, 2G",4230 mAh
+"OPPO A3s (Red, 32 GB)  (3 GB RAM)",CPH1803,Dual Sim,15.75 cm (6.2 inch),1520 x 720 Pixels,Qualcomm Snapdragon 450,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G, 2G",4230 mAh
+"Mi A3 (Not just Blue, 128 GB)  (6 GB RAM)",Redmi A3,Dual Sim,15.44 cm (6.08 inch),1560 x 720$$Pixels,Qualcomm Snapdragon 665 octa core,Octa Core,128 GB,6 GB,48MP + 8MP,"4G VOLTE, 3G, 2G",4030 mAh
+"Apple iPhone 7 (Gold, 32 GB)",MN902HN/A,Single Sim,11.94 cm (4.7 inch),1334 x 750 Pixels,Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor,32 GB,12MP,"3G, 4G VOLTE, 2G"
+"Redmi K20 Pro (Glacier Blue, 128 GB)  (6 GB RAM)",MZB7749IN,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm Snapdragon 855,Octa Core,128 GB,6 GB,48MP + 13MP + 8MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Asus Zenfone Max Pro M1 (Grey, 64 GB)  (4 GB RAM)",ZB601KL-4H070IN / ZB601KL-4H080IN,Dual Sim,15.21 cm (5.99 inch),2160 x 1080 Pixels,Qualcomm Snapdragon 636 Octa Core,Octa Core,64 GB,4 GB,13MP + 5MP,"3G, 4G VOLTE, 2G",5000 mAh
+"OPPO F11 Pro (Thunder Black, 128 GB)  (6 GB RAM)",CPH1969,Dual Sim,16.51 cm (6.5 inch),2340 x 1080 pixels,MediaTek Helio P70 Octa Core 2.1 GHz,Octa Core,128 GB,6 GB,48MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Asus ZenFone Max M2 (Black, 64 GB)  (4 GB RAM)",ZB632KL-4A004IN,Dual Sim,15.9 cm (6.26 inch),1520 x 720 pixels,Qualcomm Snapdragon 632 Octa Core,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Redmi Y3 (Elegant Blue, 32 GB)  (3 GB RAM)",M1810F6I,Dual Sim,15.9 cm (6.26 inch),1520 x 720 pixels,Qualcomm Snapdragon 632,Octa Core,32 GB,3 GB,12MP + 2MP,"3G, 4G, 2G",4000 mAh
+"POCO F1 by Xiaomi (Rosso Red, 64 GB)  (6 GB RAM)",MZB6709IN,Dual Sim,15.7 cm (6.18 inch),2160 x 1080 pixels,Qualcomm Snapdragon 845,Octa Core,64 GB,6 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Honor 10 Lite (Sapphire Blue, 64 GB)  (4 GB RAM)",HRY-AL00,Dual Sim,15.77 cm (6.21 inch),2340 x 1080 pixels,Kirin 710 2.2GHz Octa Core,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3400 mAh
+"Redmi 7 (Eclipse Black, 32 GB)  (2 GB RAM)",Redmi 7,Dual Sim,15.9 cm (6.26 inch),720 x 1520$$Pixels,Octa Core,32 GB,2 GB,12MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Realme 2 Pro (Blue Ocean, 64 GB)  (6 GB RAM)",RMX1801,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE,Octa Core,64 GB,6 GB,16MP + 2MP,"3G, 4G VOLTE, 2G",3500 mAh
+"Apple iPhone 7 (Rose Gold, 32 GB)",MN912HN/A,Single Sim,11.94 cm (4.7 inch),1334 x 750 Pixels,Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor,32 GB,12MP,"3G, 4G VOLTE, 2G"
+"Redmi Note 5 Pro (Gold, 64 GB)  (4 GB RAM)",MZB6080IN / MZB6088IN,Dual Sim,15.21 cm (5.99 inch),2160 x 1080 Pixels,Qualcomm Snapdragon 636,Octa Core,64 GB,4 GB,12MP + 5MP,"3G, 4G VOLTE, 4G",4000 mAh
+"Honor 8C (Blue, 64 GB)  (4 GB RAM)",BKK-AL10,Dual Sim,15.9 cm (6.26 inch),720 x 1520 Pixels,Qualcomm Snapdragon 632,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Honor 8C (Black, 64 GB)  (4 GB RAM)",BKK-AL10,Dual Sim,15.9 cm (6.26 inch),720 x 1520 Pixels,Qualcomm Snapdragon 632,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 2G",4000 mAh
+"iVooMi Z1 (Ocean Blue, 16 GB)  (2 GB RAM)",IV104,Dual Sim,14.4 cm (5.67 inch),1498 x 720 pixels,MTK6739W,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 4G, 2G",2800 mAh
+"Realme X (Space Blue, 128 GB)  (4 GB RAM)",RMX1901,Dual Sim,16.59 cm (6.53 inch),2340 x 1080 Pixels,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE,Octa Core,128 GB,4 GB,48MP + 5MP,"4G, 3G, 2G",3765 mAh
+"Realme X (Polar White, 128 GB)  (8 GB RAM)",RMX1901,Dual Sim,16.59 cm (6.53 inch),2340 x 1080 Pixels,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE,Octa Core,128 GB,8 GB,48MP + 5MP,"4G, 3G, 2G",3765 mAh
+Lava A1  (Glossy Blue),Lava A1,Dual Sim,4.5 cm (1.77 inch),240x320 Pixels,24 MB,24 MB,0.3MP,2G,800 mAh
+"POCO F1 by Xiaomi (Steel Blue, 256 GB)  (8 GB RAM)",MZB6650IN,Dual Sim,15.7 cm (6.18 inch),2160 x 1080 pixels,Qualcomm Snapdragon 845,Octa Core,256 GB,8 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Vivo V17Pro (Glacier Ice White, 128 GB)  (8 GB RAM)","Vivo 1909, PD1931F_EX",Dual Sim,16.36 cm (6.44 inch),2400 x 1080 Pixels,Qualcomm Snapdragon 675 AIE,Octa Core,128 GB,8 GB,"48MP + 13, 8, 2MP","4G, 3G, 2G",4100 mAh
+"Samsung Galaxy A50 (Black, 64 GB)  (4 GB RAM)",SM-A505FZKDINS,Dual Sim,16.26 cm (6.4 inch),1080 x 2340 pixels,Exynos 9610,Octa Core,64 GB,4 GB,25MP + 5MP + 8MP,"3G, 4G, 2G",4000 mAh
+"Mi A3 (More Than White, 128 GB)  (6 GB RAM)",Redmi A3,Dual Sim,15.44 cm (6.08 inch),1560 x 720$$Pixels,Qualcomm Snapdragon 665 octa core,Octa Core,128 GB,6 GB,48MP + 8MP,"4G VOLTE, 3G, 2G",4030 mAh
+"Mi A2 (Gold, 64 GB)  (4 GB RAM)",MZB6439IN,Dual Sim,15.21 cm (5.99 inch),2160 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,64 GB,4 GB,20MP + 12MP,"3G, 4G VOLTE, 4G, 2G",3010 mAh
+"Vivo V17Pro (Midnight Ocean Black, 128 GB)  (8 GB RAM)","Vivo 1909, PD1931F_EX",Dual Sim,16.36 cm (6.44 inch),2400 x 1080 Pixels,Qualcomm Snapdragon 675 AIE,Octa Core,128 GB,8 GB,"48MP + 13, 8, 2MP","4G, 3G, 2G",4100 mAh
+"Vivo Y91 (Starry Black, 32 GB)  (3 GB RAM)",Vivo 1811/PD1818BF_EX,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,Qualcomm Snapdragon 439,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4030 mAh
+"Honor 9i (Aurora Blue, 64 GB)  (4 GB RAM)",RNE-L22,Dual Sim,14.99 cm (5.9 inch),1080 X 2160 Pixels,Huawei Kirin 659 Octa Core Clocked up to 2.36 GHz,Octa Core,64 GB,4 GB,16MP + 2MP,"3G, 4G VOLTE, 2G",3340 mAh
+"Vivo Y90 (Black, 16 GB)  (2 GB RAM)",1908,Dual Sim,15.8 cm (6.22 inch),720 x 1520 pixels,MediaTek Helio A22,Octa Core,16 GB,2 GB,8MP,"4G VOLTE, 3G, 2G",4030 mAh
+"Vivo Y90 (Gold, 16 GB)  (2 GB RAM)",1908,Dual Sim,15.8 cm (6.22 inch),720 x 1520 pixels,MediaTek Helio A22,Octa Core,16 GB,2 GB,8MP,"4G VOLTE, 3G, 2G",4030 mAh
+"Apple iPhone 8 (Space Grey, 64 GB)",MQ6K2HN/A,Single Sim,11.94 cm (4.7 inch),1334 x 750 Pixels,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor",64 GB,12MP,"3G, 4G, 2G"
+"Lenovo K9 (Black, 32 GB)  (3 GB RAM)",PADV0031CN,Dual Sim,14.48 cm (5.7 inch),720 x 1440 pixels,MediaTek P22,Octa Core,32 GB,3 GB,13MP + 5MP,"3G, 4G, 2G",3000 mAh
+"OnePlus 7 (Mirror Blue, 128 GB)  (6 GB RAM)",GM1901,Dual Sim,16.28 cm (6.41 inch),2340 x 1080 Pixels,Octa Core,128 GB,6 GB,48MP + 5MP,4G VOLTE,3700 mAh
+"Redmi Note 7 Pro (Astro Moonlight White, 64 GB)  (6 GB RAM)",MZB8433IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 675,Octa Core,64 GB,6 GB,48MP + 5MP,2G,4000 mAh
+"Honor 9N (Purple, 64 GB)  (4 GB RAM)",LLD-AL20,Dual Sim,14.83 cm (5.84 inches),2280 x 1080 Pixels,Kirin 659 Octa Core,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Honor 9N (Midnight Black, 64 GB)  (4 GB RAM)",LLD-AL20,Dual Sim,14.83 cm (5.84 inches),2280 x 1080 Pixels,Kirin 659 Octa Core,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Honor 9N (Sapphire Blue, 128 GB)  (4 GB RAM)",LLD-AL20,Dual Sim,14.83 cm (5.84 inches),2280 x 1080 Pixels,Kirin 659 Octa Core,Octa Core,128 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Honor 9N (Midnight Black, 128 GB)  (4 GB RAM)",LLD-AL20,Dual Sim,14.83 cm (5.84 inches),2280 x 1080 Pixels,Kirin 659 Octa Core,Octa Core,128 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Yu Ace (Charcoal Grey, 16 GB)  (2 GB RAM)",YU5014,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,MT6739WW,Quad Core,16 GB,2 GB,13MP,"3G, 4G, 2G",4000 mAh
+"iVooMi Z1 (Classic Black, 16 GB)  (2 GB RAM)",IV104,Dual Sim,14.4 cm (5.67 inch),1498 x 720 pixels,MTK6739W,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 4G, 2G",2800 mAh
+Samsung Guru Music 2  (White),SM-B310EZWDINS,Dual Sim,5.08 cm (2 inch),128 x 160 Pixels,NA 0 Single Core 208MHz,Single Core,NA,2G,800 mAh
+"Redmi Note 6 Pro (Black, 64 GB)  (6 GB RAM)",MZB6879IN,Dual Sim,15.9 cm (6.26 inch),2280 x 1080 pixels,Qualcomm Snapdragon 636,Octa Core,64 GB,6 GB,12MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Apple iPhone 7 Plus (Silver, 32 GB)",MNQN2HN/A,Single Sim,13.97 cm (5.5 inch),1920 x 1080 Pixels,Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor,32 GB,12MP + 12MP,"3G, 4G VOLTE, 2G"
+Lava A1 Josh  (Black),Lava_A1Lite,Dual Sim,4.57 cm (1.8 inch),128x160$$Pixels,1 KB,4 MB,2G,800 mAh
+"Redmi Go (Blue, 16 GB)  (1 GB RAM)",MZB7704IN,Dual Sim,12.7 cm (5 inch),1280 x 720 pixels,Qualcomm Snapdragon 425,Quad Core,16 GB,1 GB,8MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Redmi Note 6 Pro (Blue, 64 GB)  (6 GB RAM)",MZB6883IN,Dual Sim,15.9 cm (6.26 inch),2280 x 1080 pixels,Qualcomm Snapdragon 636,Octa Core,64 GB,6 GB,12MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+Micromax X1i Power  (Black),X1i Power,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32 MB,0.3MP,2G,1750 mAh
+Micromax X412  (Black&Red),X412,Dual Sim,4.5 cm (1.77 inch),320 x 240$$Pixels,32 MB,32 MB,1MP,2G,800 mAh
+"OPPO A5 2020 (Dazzling White, 64 GB)  (4 GB RAM)",CPH1933,Dual Sim,16.51 cm (6.5 inch),1600 x 720 Pixels,Qualcomm SM6125,Octa Core,64 GB,4 GB,"12MP + 8, 2, 2MP","4G VOLTE, 4G, 3G, 2G",5000 mAh
+Karbonn Jumbo K9  (Black and Red),Dual Sim,6.6 cm (2.6 inch),240 x 320 Pixels,1.3MP,1800 mAh
+"Realme U1 (Ambitious Black, 32 GB)  (3 GB RAM)",RMX1831,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 Pixels,Octa Core,32 GB,3 GB,13MP,"3G, 4G, 2G",3500 mAh
+"Redmi K20 Pro (Carbon Black, 256 GB)  (8 GB RAM)",MZB7753IN,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm Snapdragon 855,Octa Core,256 GB,8 GB,48MP + 13MP + 8MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Realme U1 (Brave Blue, 32 GB)  (3 GB RAM)",RMX1831,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 Pixels,Octa Core,32 GB,3 GB,13MP,"3G, 4G, 2G",3500 mAh
+"Realme U1 (Fiery Gold, 32 GB)  (3 GB RAM)",RMX1831,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 Pixels,Octa Core,32 GB,3 GB,13MP,"3G, 4G, 2G",3500 mAh
+Lava A7  (Rose Gold),A7,Dual Sim,6.1 cm (2.4 inch),240 x 320 pixels,MTK6261M,24 MB,32 MB,0.3MP,2G,1750 mAh
+"Redmi 6 Pro (Red, 32 GB)  (3 GB RAM)",M1805D1SI,Dual Sim,14.83 cm (5.84 inch),1080 x 2280 pixels,Qualcomm Snapdragon 625,Octa Core,32 GB,3 GB,12MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Samsung Galaxy A20 (Black, 32 GB)  (3 GB RAM)",SM-A205FZKGINS,Dual Sim,16.26 cm (6.4 inch),720 x 1560 pixels,Exynos 7884B,Octa Core,32 GB,3 GB,13MP + 5MP,"3G, 4G, 2G",4000 mAh
+"Honor 8X (Blue, 64 GB)  (4 GB RAM)",JSN-L42,Dual Sim,16.51 cm (6.5 inch),2340 x 1080 Pixels,Kirin 710,Octa Core,64 GB,4 GB,20MP + 2MP,"3G, 4G VOLTE, 2G",3750 mAh
+"Karbonn Platinum P9 (Stary Black Blue, 16 GB)  (2 GB RAM)",Platinum P9,Dual Sim,13.84 cm (5.45 inch),480 x 960$$Pixels,Quad Core,16 GB,2 GB,8MP,"3G, 4G, 2G",2500 mAh
+"Infinix Smart 3 Plus (Sapphire Cyan, 32 GB)  (2 GB RAM)",X627V,Dual Sim,15.77 cm (6.21 inch),1520 x 720 pixels,MediaTek A22 Quad Core 2.0GHz,Quad Core,32 GB,2 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3500 mAh
+"Vivo V15 Pro (Topaz Blue, 128 GB)  (8 GB RAM)",Vivo 1818,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm Snapdragon 675AIE Octa Core 2.0GHz,Octa Core,128 GB,8 GB,48MP + 5MP + 8MP,"3G, 4G VOLTE, 4G, 2G",3700 mAh
+I Kall K18 New  (Light Blue),K18 New,Dual Sim,4.57 cm (1.8 inch),160 x 128 Pixels,64 MB,32 MB,0.3MP,2G,800 mAh
+Karbonn K2 Boom Box  (Black),K2 Boom Box,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,SC6531DA,32 MB,32 MB,0.08MP,2G,1000 mAh
+"Apple iPhone 7 (Silver, 32 GB)",MN8Y2HN/A,Single Sim,11.94 cm (4.7 inch),1334 x 750 Pixels,Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor,32 GB,12MP,"3G, 4G VOLTE, 2G"
+Karbonn K-Stylo  (Brushed Gold),K-Stylo,Dual Sim,7.11 cm (2.8 inch),240 x 320$$Pixels,32 MB,12 MB,0.8MP,2G,1750 mAh
+"Meizu C9 (Gold, 16 GB)  (2 GB RAM)",M818H,Dual Sim,13.84 cm (5.45 inch),720 x 1440$$Pixels,Quad Core,Quad Core,16 GB,2 GB,13MP,"3G, 4G, 2G",3000 mAh
+"Lenovo K9 Note (Black, 64 GB)  (4 GB RAM)",PADD0014CN,Dual Sim,15.21 cm (5.99 inch),720 x 1440 pixels,Qualcomm Snapdragon SDM450,Octa Core,64 GB,4 GB,16MP + 2MP,"3G, 4G, 2G",3760 mAh
+"OnePlus 7 (Mirror Grey, 256 GB)  (8 GB RAM)",GM1901,Dual Sim,16.28 cm (6.41 inch),2340 x 1080 Pixels,Octa Core,256 GB,8 GB,48MP + 5MP,4G VOLTE,3700 mAh
+"OnePlus 7 (Mirror Grey, 128 GB)  (6 GB RAM)",GM1901,Dual Sim,16.28 cm (6.41 inch),2340 x 1080 Pixels,Octa Core,128 GB,6 GB,48MP + 5MP,4G VOLTE,3700 mAh
+"OnePlus 7 (Red, 256 GB)  (8 GB RAM)",GM1901,Dual Sim,16.28 cm (6.41 inch),2340 x 1080 Pixels,Octa Core,256 GB,8 GB,48MP + 5MP,4G VOLTE,3700 mAh
+"OPPO A1K (Red, 32 GB)  (2 GB RAM)",CPH1923,Dual Sim,15.49 cm (6.1 inch),720 x 1560 pixels,MT6762R,Octa Core,32 GB,2 GB,8MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Realme U1 (Ambitious Black, 64 GB)  (4 GB RAM)",RMX1833,Dual Sim,16.0 cm (6.3 inch),2340 x 1080$$ Pixels,Octa Core,64 GB,4 GB,13MP,"3G, 4G, 2G",3500 mAh
+"Realme U1 (Brave Blue, 64 GB)  (4 GB RAM)",RMX1833,Dual Sim,16.0 cm (6.3 inch),2340 x 1080$$ Pixels,Octa Core,64 GB,4 GB,13MP,"3G, 4G, 2G",3500 mAh
+Nokia 106  (Grey),TA-1114 / Nokia 106 DS,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,4 MB,4 MB,2G,800 mAh
+Samsung Guru FM Plus SM-B110E/D  (White),SM-B110EZWDINS,Dual Sim,3.81 cm (1.5 inch),128 x 128 Pixels,NA,2G,800 mAh
+"Redmi Note 7S (Astro Moonlight White, 32 GB)  (3 GB RAM)",MZB8006IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,32 GB,3 GB,48MP + 5MP,2G,4000 mAh
+"OPPO A83 (2018 Edition) (Red, 64 GB)  (4 GB RAM)",Dual Sim,14.48 cm (5.7 inch),1440 x 720 Pixels,MT6763T,Octa Core,64 GB,4 GB,13MP,"3G, 4G VOLTE, 2G",3180 mAh
+"Samsung Galaxy A50s (Prism Crush Violet, 128 GB)  (4 GB RAM)",SM-A507FZLVINS,Dual Sim,16.26 cm (6.4 inch),2340 x 1080 Pixels,Exynos 9611 - Octa-Core,Octa Core,128 GB,4 GB,48MP + 5MP + 8MP,"4G, 3G, 2G",4000 mAh
+"Google Pixel 3a XL (Clearly White, 64 GB)  (4 GB RAM)",G020B,Single Sim,15.24 cm (6 inch),2160 x 1080 pixels,Qualcomm Snapdragon 670,Octa Core,64 GB,4 GB,12.2MP,"3G, 4G VOLTE, 4G, 2G",3700 mAh
+Nokia 3310 DS  (Yellow),TA-1030/NOKIA 3310 DS,Dual Sim,6.1 cm (2.4 inch),240 x 320 pixels,16 MB,2MP,2G,1200 mAh
+"Google Pixel 3 (Not Pink, 64 GB)  (4 GB RAM)",G013A,Single Sim,13.97 cm (5.5 inch),2160 x 1080 pixels,Qualcomm Snapdragon 845 64-bit,Octa Core,64 GB,4 GB,12.2MP,"3G, 4G VOLTE, 4G, 2G",2915 mAh
+"Google Pixel 3 (Not Pink, 128 GB)  (4 GB RAM)",G013A,Single Sim,13.97 cm (5.5 inch),2160 x 1080 pixels,Qualcomm Snapdragon 845 64-bit,Octa Core,128 GB,4 GB,12.2MP,"3G, 4G VOLTE, 4G, 2G",2915 mAh
+"LG K9 4G LTE (Black, 16 GB)  (2 GB RAM)",LMX210IMW,Dual Sim,12.7 cm (5 inch),720 x 1280 Pixels,Qualcomm Snapdragon Quad core,Quad Core,16 GB,2 GB,8MP,"3G, 4G VOLTE, 2G",2500 mAh
+"Samsung Galaxy A20s (Green, 64 GB)  (4 GB RAM)",SM-A207FZGGINS,Dual Sim,16.51 cm (6.5 inch),720 x 1520 Pixels,Qualcomm SDM450-B01,Octa Core,64 GB,4 GB,13MP + 8MP +  5MP,"4G, 3G, 2G",4000 mAh
+"OPPO Reno2 F (Lake Green, 128 GB)  (8 GB RAM)",CPH1989,Dual Sim,16.51 cm (6.5 inch),2400 x 1080 Pixels,MTK MT6771V(P70) 64bit,Octa Core,128 GB,8 GB,"48MP + 8, 2, 2MP","4G, 2G, 3G",4000 mAh
+Karbonn K9 Staar  (White),K9 Staar,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+"Lava Z51 (Gold, 16 GB)  (1 GB RAM)",Z51,Dual Sim,12.7 cm (5 inch),480 x 960 pixels,SC9832E,Quad Core,16 GB,1 GB,5MP,"3G, 4G VOLTE, 4G, 2G",2550 mAh
+"Samsung Galaxy A70s (Prism Crush Black, 128 GB)  (8 GB RAM)",SM-A707FZKWINS,Dual Sim,17.02 cm (6.7 inch),1080 x 2400 Pixels,Qualcomm SM6150,Octa Core,128 GB,8 GB,64MP + 5MP + 8MP,"4G, 3G, 2G",4500 mAh
+"Redmi K20 Pro (Pearl White, 256 GB)  (8 GB RAM)",MZB8136IN,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm Snapdragon 855,Octa Core,256 GB,8 GB,48MP + 13MP + 8MP,"4G VOLTE, 3G, 2G",4000 mAh
+Lava Spark i8  (Red),Spark i8,Dual Sim,7.11 cm (2.8 inch),320 x 240 Pixels,32 MB,32 MB,1.3MP,2G,1200 mAh
+Karbonn K2 Boom Box  (White),K2 Boom Box,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+"POCO F1 by Xiaomi (Rosso Red, 256 GB)  (8 GB RAM)",MZB7018IN,Dual Sim,15.7 cm (6.18 inch),2160 x 1080 pixels,Qualcomm Snapdragon 845,Octa Core,256 GB,8 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",4000 mAh
+Micromax X380  (Black&Red),X380,Dual Sim,4.5 cm (1.77 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,2500 mAh
+Niamia Cad V Combo of Two Mobiles  (Red),Cad V Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),320 x 240$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+Karbonn K19 Rock  (White&Grey),K19 Rock,Dual Sim,4.57 cm (1.8 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,1750 mAh
+"Redmi 6A (Gold, 32 GB)  (2 GB RAM)",M1805D1S/M1804C3CI,Dual Sim,13.84 cm (5.45 inch),720 x 1440 Pixels,Mediateck,Quad Core,32 GB,2 GB,13MP,"3G, 4G VOLTE, 2G",3000 mAh
+"Vivo Y91i (Fusion Black, 16 GB)  (2 GB RAM)",vivo 1820,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,MTK Helio P22,Octa Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 4G, 2G",4030 mAh
+"OPPO A7 (Glaze Blue, 64 GB)  (3 GB RAM)",CPH1901,Dual Sim,15.75 cm (6.2 inch),1520 x 720 pixels,Qualcomm Snapdragon 450,Octa Core,64 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Samsung Galaxy A2 Core (Blue, 16 GB)  (1 GB RAM)",SM-A260GZBGINS,Dual Sim,12.7 cm (5 inch),540 x 960 pixels,Exynos 7870,Octa Core,16 GB,1 GB,5MP,"3G, 4G, 2G",2600 mAh
+"Honor Play (Navy Blue, 64 GB)  (6 GB RAM)",COR-AL00,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 Pixels,Kirin 970 AI,Octa Core,64 GB,6 GB,16MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3750 mAh
+"Honor Play (Midnight Black, 64 GB)  (6 GB RAM)",COR-AL00,Dual Sim,16.0 cm (6.3 inch),2340x1080 Pixels,Kirin 970 AI,Octa Core,64 GB,6 GB,16MP + 2MP,"3G, 4G VOLTE, 2G",3750 mAh
+"Samsung Galaxy A30 (Black, 64 GB)  (4 GB RAM)",SM-A305FZKFINS,Dual Sim,16.26 cm (6.4 inch),1080 x 2340 pixels,Exynos 7904,Octa Core,64 GB,4 GB,16MP + 5MP,"3G, 4G, 2G",4000 mAh
+"Samsung Galaxy A10s (Green, 32 GB)  (3 GB RAM)",SM-A107FZGGINS,Dual Sim,15.75 cm (6.2 inch),720 x 1560,MediaTek MT6762,Octa Core,32 GB,3 GB,13MP + 2MP,"4G, 3G, 2G",4000 mAh
+"Samsung Galaxy A20 (Gold, 32 GB)  (3 GB RAM)",SM-A205FZDGINS,Dual Sim,16.26 cm (6.4 inch),720 x 1560 pixels,Exynos 7884B,Octa Core,32 GB,3 GB,13MP + 5MP,"3G, 4G, 2G",4000 mAh
+Micromax X811  (Blue),X811,Dual Sim,7.11 cm (2.8 inch),240 x 320 Pixels,32 MB,32 MB,0.1MP,2G,1000 mAh
+Karbonn K9  (Black And Red),Dual Sim,6.6 cm (2.6 inch),"QVGA, 240 x 320",Single Core,2MP,1800 mAh
+"Samsung Galaxy A30s (Prism Crush White, 64 GB)  (4 GB RAM)",SM-A307FZWVINS,Dual Sim,16.26 cm (6.4 inch),1560 x 720 pixels,Exynos 7904,Octa Core,64 GB,4 GB,25MP + 8MP +  5MP,"4G, 3G, 2G",4000 mAh
+"Apple iPhone 11 Pro (Silver, 256 GB)",MWC82HN/A,Dual Sim,14.73 cm (5.8 inch),2436 x 1125 Pixels,A13 Bionic Chip,256 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+"Samsung Galaxy A20 (Deep Blue, 32 GB)  (3 GB RAM)",SM-A205FZBGINS,Dual Sim,16.26 cm (6.4 inch),720 x 1560 pixels,Exynos 7884B,Octa Core,32 GB,3 GB,13MP + 5MP,"3G, 4G, 2G",4000 mAh
+"Asus 6Z (Matte Black, 256 GB)  (8 GB RAM)",ZS630KL-6A044WW,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm SD 855,Octa Core,256 GB,8 GB,48MP + 13MP,"3G, 4G, 2G",5000 mAh
+"Samsung Galaxy A20s (Blue, 32 GB)  (3 GB RAM)",SM-A207FZBDINS,Dual Sim,16.51 cm (6.5 inch),720 x 1520 Pixels,Qualcomm SDM450-B01,Octa Core,32 GB,3 GB,13MP + 8MP +  5MP,"4G, 3G, 2G",4000 mAh
+"OPPO A7 (Glaze Blue, 64 GB)  (4 GB RAM)",CPH1901,Dual Sim,15.75 cm (6.2 inch),1520 x 720 pixels,Qualcomm Snapdragon 450,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"OPPO A7 (Glaring Gold, 64 GB)  (4 GB RAM)",CPH1901,Dual Sim,15.75 cm (6.2 inch),1520 x 720 pixels,Qualcomm Snapdragon 450,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Samsung Galaxy A10 (Black, 32 GB)  (2 GB RAM)",SM-A105FZKGINS,Dual Sim,15.75 cm (6.2 inch),720 x 1520 pixels,Exynos 7884,Octa Core,32 GB,2 GB,13MP,"3G, 4G, 2G",3400 mAh
+"Nokia 2.2 (Black, 16 GB)  (2 GB RAM)",HQ5020DA04000,Dual Sim,14.5 cm (5.71 inch),720 x 1520 pixels,MediaTek Helio A22,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+Kechaoda A26  (Black),A26,Dual Sim,1.68 cm (0.66 inch),128x160 Pixels,32 MB,32 MB,2G,800 mAh
+"OnePlus 7T (Glacier Blue, 128 GB)  (8 GB RAM)",HD1901,Dual Sim,16.64 cm (6.55 inch), 2400 x 1080$$Pixels,Qualcomm® Snapdragon™ 855 Plus,Octa Core,128 GB,8 GB,48MP + 12MP,"4G, 3G, 2G",3800 mAh
+Karbonn K140 Pop  (Red),K140 Pop,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+"Samsung Galaxy M30 (Gradation Blue, 64 GB)  (4 GB RAM)",SM-M305FZBDINS,Dual Sim,16.26 cm (6.4 inch),1080 x 2340$$Pixels,Quad Core,64 GB,4 GB,13MP,"3G, 4G, 2G",5000 mAh
+"Redmi Y2 (Black, 64 GB)  (4 GB RAM)",MZB6782IN,Dual Sim,15.21 cm (5.99 inch),1440 x 720 pixels,Qualcomm Snapdragon 625,Octa Core,64 GB,4 GB,12MP + 5MP,"3G, 4G, 2G",3080 mAh
+Kechaoda K-55 Plus  (Black),K-55 Plus,Dual Sim,4.5 cm (1.77 inch),320 x 480 Pixels,32 MB,512 MB,0.3MP,2G,850 mAh
+Kechaoda K115  (Black),K115,Dual Sim,3.56 cm (1.4 inch),320 x 240 Pixels,32 MB,32 MB,0.3MP,2G,850 mAh
+"Redmi 6 (Blue, 32 GB)  (3 GB RAM)",MZB6387IN,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,2.0 GHz Mediatek P22 Octacore,Octa Core,32 GB,3 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",3000 mAh
+Tork T3  (Brown Gold),T3,Dual Sim,4.57 cm (1.8 inch),128 x 160$$pixels,32 MB,32 MB,0.3MP,2G,2500 mAh
+"Honor 9 Lite (Sapphire Blue, 32 GB)  (3 GB RAM)",LLD-AL10,Dual Sim,14.35 cm (5.65 inch),2160 x 1080 Pixels,Kirin 659,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 2G",3000 mAh
+"OPPO A7 (Glaring Gold, 64 GB)  (3 GB RAM)",CPH1901,Dual Sim,15.75 cm (6.2 inch),1520 x 720 pixels,Qualcomm Snapdragon 450,Octa Core,64 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Redmi 6A (Black, 16 GB)  (2 GB RAM)",m1804c3ci,Dual Sim,13.84 cm (5.45 inch),720 x 1440 Pixels,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 2G",3000 mAh
+"Apple iPhone 11 Pro Max (Midnight Green, 256 GB)",MWHM2HN/A,Dual Sim,16.51 cm (6.5 inch),2688 x 1242 Pixels,A13 Bionic Chip,256 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+Kechaoda K-55 Plus  (Silver),K-55 Plus,Dual Sim,4.5 cm (1.77 inch),320 x 480 Pixels,32 MB,512 MB,0.3MP,2G,850 mAh
+Niamia Cad IV Combo of Two Mobiles  (Green),Cad IV Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),320 x 240$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+Karbonn K-Stylo  (Blue),K-Stylo,Dual Sim,7.11 cm (2.8 inch),240 x 320$$Pixels,32 MB,12 MB,0.8MP,2G,1750 mAh
+"Samsung Galaxy J6 (Black, 32 GB)  (3 GB RAM)",SM-J600GZKGINS,Dual Sim,14.22 cm (5.6 inch),720 x 1480 Pixels,Exynos 7870,Octa Core,32 GB,3 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+Niamia Cad IV Combo of Two Mobiles  (Blue&Red),Cad IV Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),320 x 240$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+Kechaoda K66 Plus  (Silver),K66 Plus,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,400 mAh
+"OPPO A9 (Fluorite Purple, 128 GB)  (4 GB RAM)",CPH1938,Dual Sim,16.59 cm (6.53 inch),1080 x 2340 pixels,MTK MT6771V (P70),Octa Core,128 GB,4 GB,16MP + 2MP,"4G VOLTE, 3G, 2G",4020 mAh
+"OPPO A9 (Marble Green, 128 GB)  (4 GB RAM)",CPH1938,Dual Sim,16.59 cm (6.53 inch),1080 x 2340 pixels,MTK MT6771V (P70),Octa Core,128 GB,4 GB,16MP + 2MP,"4G VOLTE, 3G, 2G",4020 mAh
+Tork X9  (Black Red),X9,Dual Sim,7.11 cm (2.8 inch),240 x 360$$pixels,32 MB,32 MB,0.3MP,2G,1800 mAh
+BlackBear i7  (Gold),i7 TRIO,Dual Sim,5.08 cm (2 inch),340 x 240 Pixels,32 MB,32 MB,0.08MP,2G,1550 mAh
+"Samsung Galaxy A70s (Prism Crush Black, 128 GB)  (6 GB RAM)",SM-A707FZKMINS,Dual Sim,17.02 cm (6.7 inch),1080 x 2400 Pixels,Qualcomm SM6150,Octa Core,128 GB,6 GB,64MP + 5MP + 8MP,"4G, 3G, 2G",4500 mAh
+Gfive Audi  (White & Orange),Audi,Dual Sim,4.57 cm (1.8 inch),160 x 128$$ Pixels,32 MB,0.3MP,2G,1050 mAh
+Micromax X512  (Black&Red),X512,Dual Sim,4.5 cm (1.77 inch),240 x 320$$ Pixels,24 MB,56 MB,0.3MP,2G,1750 mAh
+I Kall I KALL K2180 Red  (Red),K2180,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,1000 mAh
+"Samsung Galaxy A30 (White, 64 GB)  (4 GB RAM)",SM-A305FZWFINS,Dual Sim,16.26 cm (6.4 inch),1080 x 2340 pixels,Exynos 7904,Octa Core,64 GB,4 GB,16MP + 5MP,"3G, 4G, 2G",4000 mAh
+"Apple iPhone 11 (Red, 64 GB)",MWLV2HN/A,Dual Sim,15.49 cm (6.1 inch),1792 x 828 Pixels,A13 Bionic Chip,64 GB,12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+"Vivo Y95 (Nebula Purple, 64 GB)  (4 GB RAM)",Vivo1807 / Vivo1818,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,Qualcomm Snapdragon 439,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4030 mAh
+Kechaoda K66 Plus  (Pink),K66 Plus,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,400 mAh
+Kechaoda K66 Plus  (Black),K66 Plus,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,400 mAh
+I Kall K31 with Flash Light/K31 Mobile  (Red),K31,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,1000 mAh
+"Alcatel 3V (Spectrum Black, 32 GB)  (3 GB RAM)",Dual Sim,15.24 cm (6 inch),2160 x 1080 pixels,MT8735A A53,Quad Core,32 GB,3 GB,16MP + 5MP,"3G, 4G VOLTE, 2G",3000 mAh
+Karbonn KX21  (Black&Yellow),KX21,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+"XOLO Era 4x (Gold, 16 GB)  (2 GB RAM)",Era 4x,Dual Sim,13.84 cm (5.45 inch),1440x720 pixels,Quad Core,16 GB,2 GB,8MP,"3G, 4G VOLTE, 2G",3000 mAh
+"Moto G6 Plus (Indigo Black, 64 GB)  (6 GB RAM)",XT-1926-9,Dual Sim,14.99 cm (5.9 inch),1080 x 2160 Pixels,Qualcomm Snapdragon 630,Octa Core,64 GB,6 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",3200 mAh
+Gfive Audi  (Black & Green),Audi,Dual Sim,4.57 cm (1.8 inch),160 x 128$$ Pixels,32 MB,0.3MP,2G,1050 mAh
+"Samsung Galaxy A10 (Gold, 32 GB)  (2 GB RAM)",SM-A105FZDGINS,Dual Sim,15.75 cm (6.2 inch),720 x 1520 pixels,Exynos 7884,Octa Core,32 GB,2 GB,13MP,"3G, 4G, 2G",3400 mAh
+Kechaoda K-9  (WhiteIIBlackIIRed),jl201130396850.5,Dual Sim,5.59 cm (2.2 inch),176 x 220,64 MB,64 MB,0.3MP,2000 mAh
+Karbonn KX2  (Gold&Black),KX2,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+"Vivo Y71 (Gold, 16 GB)  (3 GB RAM)",1724,Dual Sim,15.24 cm (6 inch),1440 x 720 Pixels,Qualcomm Snapdragon 425,Quad Core,16 GB,3 GB,13MP,"3G, 4G VOLTE, 2G",3360 mAh
+Forme Mini 1  (Red),Mini 1,Dual Sim,6.1 cm (2.4 inch),320 x 240 Pixels,0.3MP,2G,1500 mAh
+"Samsung Galaxy S10 (Prism Blue, 128 GB)  (8 GB RAM)",SM-G973FZBDINS,Dual Sim,15.49 cm (6.1 inch),3040 x 1440 pixel,Exynos 9 9820,Octa Core,128 GB,8 GB,16MP + 12MP,"3G, 4G, 2G",3400 mAh
+Tork T19  (Brown),T19,Triple Sim,6.1 cm (2.4 inch),240 x 320$$pixels,32 MB,32 MB,0.3MP,2G,2800 mAh
+"Apple iPhone 11 Pro (Space Grey, 256 GB)",MWC72HN/A,Dual Sim,14.73 cm (5.8 inch),2436 x 1125 Pixels,A13 Bionic Chip,256 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+Kechaoda K6  (Black),K6,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,1200 mAh
+"Samsung Galaxy A10s (Blue, 32 GB)  (2 GB RAM)",SM-A107FZBDINS,Dual Sim,15.75 cm (6.2 inch),720 x 1560,MediaTek MT6762,Octa Core,32 GB,2 GB,13MP + 2MP,"4G, 3G, 2G",4000 mAh
+"Vivo Y81 (Gold, 32 GB)  (3 GB RAM)",vivo 1803/PD1732BF,Dual Sim,15.49 cm (6.1 inch),1520 x 720 Pixels,MT6762 Octa Core (Helio P22),Octa Core,32 GB,3 GB,13MP,"3G, 4G VOLTE, 2G",3260 mAh
+MU M370  (Rose Gold),M370,Dual Sim,3.66 cm (1.44 inch),320 x 240 Pixels,32 MB,32 MB,0.3MP,2G,700 mAh
+Kechaoda K9  (Black),K9,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,64 MB,32 MB,0.3MP,2G,1700 mAh
+"Apple iPhone 11 Pro Max (Gold, 256 GB)",MWHL2HN/A,Dual Sim,16.51 cm (6.5 inch),2688 x 1242 Pixels,A13 Bionic Chip,256 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+"Nokia 1 (Dark Blue, 8 GB)  (1 GB RAM)",TA-1066,Dual Sim,11.43 cm (4.5 inch),480 x 854 Pixels,MT6737M Quad Core 1.1 GHz,Quad Core,8 GB,1 GB,5MP,"3G, 4G, 2G",2150 mAh
+"Redmi K20 (Carbon Black, 128 GB)  (6 GB RAM)",MZB7757IN,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm Snapdragon 730,Octa Core,128 GB,6 GB,48MP + 13MP + 8MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Nokia 3.2 (Black, 16 GB)  (2 GB RAM)",719901070771,Dual Sim,15.9 cm (6.26 inch),720 x 1520 pixels,Qualcomm Snapdragon 429,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+Karbonn KX1  (White),KX1,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+"Samsung Galaxy Note 10 (Aura Glow, 256 GB)  (8 GB RAM)",SM-N970FZSDINS,Dual Sim,16.0 cm (6.3 inch),2280 x 1080 pixel,Octa Core,256 GB,8 GB,"12MP + 12, 16MP","4G, 3G, 2G",3500 mAh
+Forme Duos N2  (Black),Duos N2,Dual Sim,4.57 cm (1.8 inch),NA,NO,32 MB,32 MB,0.3MP + 0.3MP,2G,1050 mAh
+Forme Duos N2  (Blue),Duos N2,Dual Sim,4.57 cm (1.8 inch),NA,32 MB,32 MB,0.3MP + 0.3MP,2G,1050 mAh
+"Vivo Y81 (Black, 32 GB)  (4 GB RAM)",vivo 1803/PD1732BF,Dual Sim,15.8 cm (6.22 inch),1520 x 720$pixels,MT6762 (Helio P22),Octa Core,32 GB,4 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3260 mAh
+Peace P3  (Green & Black),P3,Dual Sim,4.57 cm (1.8 inch),320 x 240 Pixels,256 MB,64 MB,0.3MP,2G,850 mAh
+"OPPO A83 (Champagne, 16 GB)  (2 GB RAM)",CPH1827,Dual Sim,14.48 cm (5.7 inch),1440 x 720 Pixels,MT6763T,Octa Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3180 mAh
+Tambo A2200  (Black),A2200,Dual Sim,5.59 cm (2.2 inch),240 x 320 Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+Kechaoda K28  (Gold),K28,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,64 MB,32 MB,0.3MP,2G,1700 mAh
+"Samsung Galaxy A70s (Prism Crush Red, 128 GB)  (6 GB RAM)",SM-A707FZRMINS,Dual Sim,17.02 cm (6.7 inch),1080 x 2400 Pixels,Qualcomm SM6150,Octa Core,128 GB,6 GB,64MP + 5MP + 8MP,"4G, 3G, 2G",4500 mAh
+Gfive Plus  (Blue),Plus,Dual Sim,4.57 cm (1.8 inch),480*320,32 MB,32 MB,0.3MP,2G,1000 mAh
+"Samsung Galaxy J6 (Blue, 32 GB)  (3 GB RAM)",SM-J600GZBGINS,Dual Sim,14.22 cm (5.6 inch),720 x 1480 Pixels,Exynos 7870,Octa Core,32 GB,3 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+Itel Power 400  (Black),It5617,Dual Sim,6.1 cm (2.4 inch),320 x 240$$Pixels,32 MB,32 MB,0.3MP,2G,2500 mAh
+Kechaoda K28  (Black),K28,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,64 MB,32 MB,0.3MP,2G,1700 mAh
+Salora Volt 2  (Black & Orange),Volt 2,Dual Sim,4.57 cm (1.8 inch),320X240 Pixels,32 MB,32 MB,1.3MP,2G,2000 mAh
+Kechaoda A27  (Black),A27,Dual Sim,1.68 cm (0.66 inch),128 x 160$$ Pixels,32 MB,32 MB,2G,800 mAh
+"Nokia 2.1 (Blue&Copper, 8 GB)  (1 GB RAM)",TA-1086/NOKIA 2.1DS,Dual Sim,13.97 cm (5.5 inch),720 x 1280 Pixels,Quad Core,8 GB,1 GB,8MP,"3G, 4G VOLTE, 2G",4000 mAh
+"OPPO F9 (Mist Black, 64 GB)  (4 GB RAM)",CPH1881,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Mediatek Helio P60 Octacore 2.0 GHz,Octa Core,64 GB,4 GB,16MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3500 mAh
+Kechaoda K60  (Gold),K60,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32 MB,0.3MP,2G,3600 mAh
+"Lava Z62 (Midnight Blue, 16 GB)  (2 GB RAM)",LF9810-Z62,Dual Sim,15.24 cm (6 inch),480 x 960 pixels,MTK 6761,Quad Core,16 GB,2 GB,8MP,"3G, 4G VOLTE, 4G, 2G",3380 mAh
+Easyfone Elite  (White),Elite,Single Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32,0.3MP,2G,1000 mAh
+Easyfone Elite  (Black),Elite,Single Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32,0.3MP,2G,1000 mAh
+"Apple iPhone X (Space Gray, 64 GB)",MQA52HN/A,Single Sim,14.73 cm (5.8 inch),2436 x 1125 Pixels,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor",64 GB,12MP + 12MP,"3G, 4G, 2G"
+Peace P4  (Black&Red),P4,Dual Sim,4.57 cm (1.8 inch),320 x 240 Pixels,256 MB,64 MB,0.3MP,2G,850 mAh
+"Apple iPhone 11 Pro Max (Space Grey, 64 GB)",MWHD2HN/A,Dual Sim,16.51 cm (6.5 inch),2688 x 1242 Pixels,A13 Bionic Chip,64 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+Karbonn KX1  (Black),KX1,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+Karbonn K24 Plus Pro  (Gold Black),K24 Plus Pro,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,1800 mAh
+"Itel A44 Power (Dark Grey, 8 GB)  (1 GB RAM)",A44 Power,Dual Sim,13.84 cm (5.45 inch),960x480$$Pixels,Quad Core,8 GB,1 GB,5MP + 0.08MP,"3G, 4G, 2G",4000 mAh
+"OPPO F11 Pro (Aurora Green, 128 GB)  (6 GB RAM)",CPH1969,Dual Sim,16.51 cm (6.5 inch),2340 x 1080 pixels,MediaTek Helio P70 Octa Core 2.1 GHz,Octa Core,128 GB,6 GB,48MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Peace P1 Pack of Three Mobiles  (Black$$Red, Black$$Blue, Black)",P1,Dual Sim,4.57 cm (1.8 inch),128 x 160$$Pixels,64 MB,32 MB,0.3MP,2G,850 mAh
+Salora Vishaal  (Gold),KT 24+,Dual Sim,6.1 cm (2.4 inch),800 x 600 Pixels,32 MB,32 MB,1.3MP,2G,2700 mAh
+Jivi S3  (Black&Yellow),S3,Dual Sim,4.57 cm (1.8 inch),240 X 320$$ Pixels,NA,32 MB,32 MB,0.3MP,2G,1000 mAh
+"Redmi 6 (Blue, 64 GB)  (3 GB RAM)",MZB6660IN,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,2.0 GHz Mediatek P22 Octacore,Octa Core,64 GB,3 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",3000 mAh
+Blackbear i7 Trio Plus  (Blue),i7 Trio Plus,Triple Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,64 MB,64 MB,1.8MP,2G,1550 mAh
+Niamia CAD 1 Combo Of Two Mobiles  (White),CAD 1 Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),240 x 320$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+Kechaoda K116 Plus  (Silver),K116 Plus,Dual Sim,4.5 cm (1.77 inch),320 x 240 Pixels,32 MB,32 MB,0.3MP,2G,400 mAh
+Karbonn KX3  (Black&Orange),KX3,Dual Sim,4.57 cm (1.8 inch),160 x 120$$Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+"Vivo Y71i (Matte Black, 16 GB)  (2 GB RAM)",1801/1731B,Dual Sim,15.24 cm (6 inch),1440 x 720 Pixel,Qualcomm Snapdragon 425,Quad Core,16 GB,2 GB,8MP,"3G, 4G VOLTE, 2G",3360 mAh
+"Vivo Y71i (Gold, 16 GB)  (2 GB RAM)",1801/1731B,Dual Sim,15.24 cm (6 inch),1440 x 720 Pixel,Qualcomm Snapdragon 425,Quad Core,16 GB,2 GB,8MP,"3G, 4G VOLTE, 2G",3360 mAh
+Kechaoda K700  (Yellow),K700,Dual Sim,4.57 cm (1.8 inch),128 x 160$$ Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+"Tecno Camon i4 (Aqua Blue, 32 GB)  (2 GB RAM)",Camon i4 / CB7,Dual Sim,15.75 cm (6.2 inch),1520x720$$Pixels,Quad Core,32 GB,2 GB,13MP + 8MP,"3G, 4G VOLTE, 2G",3500 mAh
+Salora Kiano  (Dark Blue),Kiano,Four Sim,6.1 cm (2.4 inch),320 x 240 Pixels,Spreadtrum,32 MB,32 MB,1.3MP,2G,1200 mAh
+"Lava Z93 (Charcoal Blue, 32 GB)  (3 GB RAM)",Dual Sim,15.8 cm (6.22 inch),720 x 1520 Pixels,Helio P22,Octa Core,32 GB,3 GB,13MP + 2MP,"4G VOLTE, 3G, 2G",3500 mAh
+"Lava Z93 (Royal Blue, 32 GB)  (3 GB RAM)",Dual Sim,15.8 cm (6.22 inch),720 x 1520 Pixels,Helio P22,Octa Core,32 GB,3 GB,13MP + 2MP,"4G VOLTE, 3G, 2G",3500 mAh
+"Apple iPhone XR (White, 128 GB)",MRYD2HN/A,Dual Sim,15.49 cm (6.1 inch),1792 x 828 pixels,A12 Bionic Chip,128 GB,12MP,"3G, 4G, 2G"
+"Zen Z8 T  (Red/ Black , Red)",Z8 T,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32 MB,1.3MP,2G,2800 mAh
+Ziox Z301  (Coffee),Z301,Dual Sim,6.1 cm (2.4 inch),120 x 160$$Pixels,32 MB,32 MB,0.3MP,2G,1800 mAh
+"LG K7i (Brown, 16 GB)  (2 GB RAM)",X230I,Dual Sim,12.7 cm (5 inch),854 x 480 Pixels,Quad Core,16 GB,2 GB,8MP,"3G, 4G VOLTE, 2G",2500 mAh
+I Kall K34 Combo of Two Mobiles  (Black&Red$$Black&Red),K34 Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+"Honor Holly 4 (Grey, 32 GB)  (3 GB RAM)",DLI-L42,Dual Sim,12.7 cm (5 inch),1280 x 720 Pixels,4*Cortex-A53 1.4GHz + 4*Cortex-A53 1.1GHz Android 7.0 + EMUI 5.1,Quad Core,32 GB,3 GB,13MP,"3G, 4G VOLTE, 4G",3020 mAh
+Samsung Metro 313  (Black),SM-B313EZKDINS,Dual Sim,5.08 cm (2 inch),640 x 480,2.27 MB,512 MB,0.3MP,1000 mAh
+"Zen Z8 T  (Red/ Black , Red)",Z8 T,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32 MB,1.3MP,2G,2800 mAh
+"Kenxinda P9 Volte (Iron Grey, 8 GB)  (1 GB RAM)",P9,Dual Sim,13.97 cm (5.5 inch),480 x 854 Pixels,Quad Core,8 GB,1 GB,5MP,"3G, 4G VOLTE, 2G",5000 mAh
+Kechaoda K111  (Gold),K111,Dual Sim,4.57 cm (1.8 inch),240 x 320$$ Pixels,32 MB,32 MB,2MP,2G,800 mAh
+"Samsung Galaxy S9 (Midnight Black, 256 GB)  (4 GB RAM)",SM-G960FZKHINS,Dual Sim,14.73 cm (5.8 inch),2960 x 1440 Pixels,Exynos 9810,Octa Core,256 GB,4 GB,12MP,"3G, 4G, 2G",3000 mAh
+"Asus Zenfone Max Pro M1 (Grey, 64 GB)  (4 GB RAM)",ZB601KL-4H070IN / ZB601KL-4H080IN,Dual Sim,15.21 cm (5.99 inch),2160 x 1080 Pixels,Qualcomm Snapdragon 636 Octa Core,Octa Core,64 GB,4 GB,13MP + 5MP,"3G, 4G VOLTE, 2G",5000 mAh
+Salora Kiano  (Dark Blue),Kiano,Four Sim,6.1 cm (2.4 inch),320 x 240 Pixels,Spreadtrum,32 MB,32 MB,1.3MP,2G,1200 mAh
+"OPPO F11 Pro (Thunder Black, 128 GB)  (6 GB RAM)",CPH1969,Dual Sim,16.51 cm (6.5 inch),2340 x 1080 pixels,MediaTek Helio P70 Octa Core 2.1 GHz,Octa Core,128 GB,6 GB,48MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Moto Z with Style Mod (Black, 64 GB)  (4 GB RAM)",XT 1650-03,Dual Sim,13.97 cm (5.5 inch),2560 x 1440 Pixels,Qualcomm Snapdragon 820 Quad Core 1.8GHz,Quad Core,64 GB,4 GB,13MP,"3G, 4G VOLTE, 2G",2600 mAh
+"Samsung Galaxy A6+ (Gold, 64 GB)  (4 GB RAM)",SM-A605GZDHINS,Dual Sim,15.24 cm (6 inch),2220 x 1080 Pixels,Octa Core,64 GB,4 GB,16MP + 5MP,"3G, 4G VOLTE, 4G, 2G",3500 mAh
+"Apple iPhone 11 Pro (Space Grey, 512 GB)",MWCD2HN/A,Dual Sim,14.73 cm (5.8 inch),2436 x 1125 Pixels,A13 Bionic Chip,512 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+"Samsung Galaxy Note 9 (Metallic Copper, 512 GB)  (8 GB RAM)",SM-N960FZNHINS,Dual Sim,16.26 cm (6.4 inch),2960 x 1440 Pixels,Octa Core,512 GB,8 GB,12MP + 12MP,"3G, 4G, 2G",4000 mAh
+"Mi A2 (Gold, 64 GB)  (4 GB RAM)",MZB6439IN,Dual Sim,15.21 cm (5.99 inch),2160 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,64 GB,4 GB,20MP + 12MP,"3G, 4G VOLTE, 4G, 2G",3010 mAh
+"Alcatel 1 (Blue, 8 GB)  (1 GB RAM)",5033S,Dual Sim,12.7 cm (5 inch),960 x 480$$Pixels,Quad Core,8 GB,1 GB,8MP,"3G, 4G, 2G",2000 mAh
+"Samsung Galaxy A50 (Black, 64 GB)  (4 GB RAM)",SM-A505FZKDINS,Dual Sim,16.26 cm (6.4 inch),1080 x 2340 pixels,Exynos 9610,Octa Core,64 GB,4 GB,25MP + 5MP + 8MP,"3G, 4G, 2G",4000 mAh
+"VOTO V3 (Blue, 16 GB)  (2 GB RAM)",Dual Sim,12.7 cm (5 inch),1280 x 720 pixels,Spreadtrum 9850,Quad Core,16 GB,2 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+Jivi X570 Plus  (Blue),X570Plus,Dual Sim,4.57 cm (1.8 inch),160X128$$Pixels,NA,16 MB,1 MB,0.03MP + 0MP,2G,1800 mAh
+Ziox Z301  (Grey Silver),Z301,Dual Sim,6.1 cm (2.4 inch),120 x 160$$Pixels,32 MB,32 MB,0.3MP,2G,1800 mAh
+"Redmi 6 (Rose Gold, 64 GB)  (3 GB RAM)",MZB6663IN,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,2.0 GHz Mediatek P22 Octacore,Octa Core,64 GB,3 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",3000 mAh
+"Tecno Camon i4 (Midnight Black, 32 GB)  (2 GB RAM)",Camon i4/ CB7,Dual Sim,15.75 cm (6.2 inch),1520x720 Pixels,Quad Core,32 GB,2 GB,"13MP + 2, 8MP","3G, 4G VOLTE, 2G",3500 mAh
+"Tecno Camon I Air (Champagne Gold, 16 GB)  (2 GB RAM)",Dual Sim,14.35 cm (5.65 inch),720 x 1440 pixels,Cortex A53,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3050 mAh
+"Panasonic Eluga Arc (Gold, 16 GB)  (2 GB RAM)",EB-90S47AR0,Dual Sim,11.94 cm (4.7 inch),1280 x 720 Pixels,Qualcomm Snapdragon 410 Quad Core 1.2GHz,Quad Core,16 GB,2 GB,8MP,4G,1800 mAh
+"Lenovo A6 Note (Blue, 32 GB)  (3 GB RAM)",PAGK0026IN,Dual Sim,15.46 cm (6.088 inch),1560 x 720pixels,MediaTek P22 Octa Core,Octa Core,32 GB,3 GB,13MP + 2MP,"4G, 3G, 2G",4000 mAh
+"Samsung Galaxy A70s (Prism Crush White, 128 GB)  (6 GB RAM)",SM-A707FZWMINS,Dual Sim,17.02 cm (6.7 inch),1080 x 2400 Pixels,Qualcomm SM6150,Octa Core,128 GB,6 GB,64MP + 5MP + 8MP,"4G, 3G, 2G",4500 mAh
+"Samsung Galaxy A50 (Black, 64 GB)  (4 GB RAM)",SM-A505FZKDINS,Dual Sim,16.26 cm (6.4 inch),1080 x 2340 pixels,Exynos 9610,Octa Core,64 GB,4 GB,25MP + 5MP + 8MP,"3G, 4G, 2G",4000 mAh
+"Apple iPhone 8 (Silver, 256 GB)",MQ7G2HN/A,Single Sim,11.94 cm (4.7 inch),1334 x 750 Pixels,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor",256 GB,12MP,"3G, 4G, 2G"
+"Apple iPhone XR (Coral, 64 GB)",MRY82HN/A,Dual Sim,15.49 cm (6.1 inch),1792 x 828 pixels,A12 Bionic Chip,64 GB,12MP,"3G, 4G, 2G"
+"Mi A2 (Gold, 64 GB)  (4 GB RAM)",MZB6439IN,Dual Sim,15.21 cm (5.99 inch),2160 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,64 GB,4 GB,20MP + 12MP,"3G, 4G VOLTE, 4G, 2G",3010 mAh
+"Kekai S5 Gio (Blue, 16 GB)  (1 GB RAM)",S5 Gio,Dual Sim,14.48 cm (5.7 inch),720 x 1080$$Pixels,Quad Core,16 GB,1 GB,5MP,"4G VOLTE, 3G, 2G",3200 mAh
+"Honor 7A (Blue, 32 GB)  (3 GB RAM)",V100R001 / AUM-AL20,Dual Sim,14.48 cm (5.7 inch),1440 x 720 Pixels,Qualcomm Snapdragon Octa Core,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Apple iPhone X (Silver, 64 GB)",MQA62HN/A,Single Sim,14.73 cm (5.8 inch),2436 x 1125 Pixels,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor",64 GB,12MP + 12MP,"3G, 4G, 2G"
+"Samsung Galaxy Note 9 (Metallic Copper, 512 GB)  (8 GB RAM)",SM-N960FZNHINS,Dual Sim,16.26 cm (6.4 inch),2960 x 1440 Pixels,Octa Core,512 GB,8 GB,12MP + 12MP,"3G, 4G, 2G",4000 mAh
+"POCO F1 by Xiaomi (Rosso Red, 128 GB)  (6 GB RAM)",MZB6710IN,Dual Sim,15.7 cm (6.18 inch),2160 x 1080 pixels,Qualcomm Snapdragon 845,Octa Core,128 GB,6 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Micromax Canvas 1 2018 (Blue, 16 GB)  (2 GB RAM)",C1 A,Dual Sim,14.48 cm (5.7 inch),720*1440$$Pixels,Dual Core,16 GB,2 GB,8MP + 8MP,"4G VOLTE, 3G, 2G",3000 mAh
+"Itel A23 (Gradation Red, 8 GB)  (1 GB RAM)",A23,Dual Sim,12.7 cm (5 inch),480 x 854$$Pixels,Quad Core,8 GB,1 GB,2MP,"3G, 4G, 2G",2050 mAh
+Kechaoda K103  (Silver),K103,Dual Sim,7.11 cm (2.8 inch),320x240 Pixels,64 MB,32 MB,0.3MP,2G,1700 mAh
+"Samsung Galaxy A50 (White, 64 GB)  (4 GB RAM)",SM-A505FZWDINS,Dual Sim,16.26 cm (6.4 inch),1080 x 2340 pixels,Exynos 9610,Octa Core,64 GB,4 GB,25MP + 5MP + 8MP,"3G, 4G, 2G",4000 mAh
+"Apple iPhone 11 Pro (Gold, 64 GB)",MWC52HN/A,Dual Sim,14.73 cm (5.8 inch),2436 x 1125 Pixels,A13 Bionic Chip,64 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+"Tecno Camon I Sky 2 (Bordeaux Red, 16 GB)  (2 GB RAM)",Camon i Sky 2,Dual Sim,13.97 cm (5.5 inch),1440X720 Pixels,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 2G",3050 mAh
+"Tecno Camon i4 (Champagne Gold, 64 GB)  (4 GB RAM)",Camon i4/� CB7J,Dual Sim,15.75 cm (6.2 inch),1520x720$$Pixels,Octa Core,64 GB,4 GB,13MP + 8MP,"3G, 4G VOLTE, 2G",3500 mAh
+"Redmi Note 7 (Ruby Red, 64 GB)  (4 GB RAM)",MZB7412IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,64 GB,4 GB,12MP + 2MP,"3G, 4G VOLTE, 2G",4000 mAh
+"Redmi K20 Pro (Flame Red, 128 GB)  (6 GB RAM)",MZB7748IN,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm Snapdragon 855,Octa Core,128 GB,6 GB,48MP + 13MP + 8MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Samsung Galaxy A9 (Caviar Black, 128 GB)  (8 GB RAM)",SM-A920FZKGINS,Dual Sim,16.0 cm (6.3 inch),2220 x 1080 pixels,Qualcomm Snapdragon 660,Octa Core,128 GB,8 GB,24MP + 5MP + 10MP +8MP,"3G, 4G, 2G",3800 mAh
+"Samsung Galaxy J4 (Blue, 16 GB)  (2 GB RAM)",SM-J400FZBDINS,Dual Sim,13.97 cm (5.5 inch),720 x 1280 Pixels,Exynos 7570,Quad Core,16 GB,2 GB,13MP,"3G, 4G, 2G",3000 mAh
+"Samsung Galaxy S9 (Midnight Black, 128 GB)  (4 GB RAM)",SM-G960FZKGINS,Dual Sim,14.73 cm (5.8 inch),2960 x 1440 Pixels,Exynos 9810,Octa Core,128 GB,4 GB,12MP,"3G, 4G, 2G",3000 mAh
+"Vivo Y55S (Crown Gold, 16 GB)  (3 GB RAM)",1610,Dual Sim,13.21 cm (5.2 inch),1280 x 720 Pixels,Qualcomm Snapdragon 425 64-bit Quad Core 1.4GHz,Quad Core,16 GB,3 GB,13MP,"3G, 4G VOLTE, 2G",2730 mAh
+"Apple iPhone 7 Plus (Jet Black, 32 GB)",MQU72HN/A,Single Sim,13.97 cm (5.5 inch),1920 x 1080 Pixels,Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor,32 GB,12MP + 12MP,"4G VOLTE, 3G, 2G",NA
+"Apple iPhone 7 Plus (Gold, 32 GB)",MNQP2HN/A,Single Sim,13.97 cm (5.5 inch),1920 x 1080 Pixels,Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor,32 GB,12MP + 12MP,"3G, 4G VOLTE, 2G"
+"Apple iPhone 11 (Green, 64 GB)",MWLY2HN/A,Dual Sim,15.49 cm (6.1 inch),1792 x 828 Pixels,A13 Bionic Chip,64 GB,12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+MTR Ferrari  (Blue),Ferrari,Dual Sim,4.5 cm (1.77 inch),120 x 240$$Pixels,64 MB,64 MB,0.3MP,2G,800 mAh
+MTR Ferrari  (Yellow),FERRARI,Dual Sim,4.5 cm (1.77 inch),120 x 240$$Pixels,64 MB,64 MB,0.3MP,2G,800 mAh
+"Apple iPhone 8 (Silver, 256 GB)",MQ7G2HN/A,Single Sim,11.94 cm (4.7 inch),1334 x 750 Pixels,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor",256 GB,12MP,"3G, 4G, 2G"
+Nokia Ta -1010/ Nokia 105  (Blue),Nokia 105,Single Sim,4.57 cm (1.8 inch),107 x 144 Pixels,4 MB,4 MB,2G,800 mAh
+"Vivo V9 Youth (Black, 32 GB)  (4 GB RAM)",1727,Dual Sim,16.0 cm (6.3 inch),2280 x 1080 Pixels,Qualcomm Snapdragon 450,Octa Core,32 GB,4 GB,16MP + 2MP,"3G, 4G VOLTE, 2G",3260 mAh
+"Apple iPhone 11 Pro Max (Silver, 256 GB)",MWHK2HN/A,Dual Sim,16.51 cm (6.5 inch),2688 x 1242 Pixels,A13 Bionic Chip,256 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+"Nokia 6.1 (Gold, Blue, 32 GB)  (4 GB RAM)",Dual Sim,13.97 cm (5.5 inch),1920 x 1080 Pixels,Qualcomm Snapdragon 630,Octa Core,32 GB,4 GB,16MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Redmi K20 (Carbon Black, 64 GB)  (6 GB RAM)",MZB7754IN,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm Snapdragon 730,Octa Core,64 GB,6 GB,48MP + 13MP + 8MP,"4G VOLTE, 3G, 2G",4000 mAh
+"Redmi Note 7 (Ruby Red, 64 GB)  (4 GB RAM)",MZB7412IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,64 GB,4 GB,12MP + 2MP,"3G, 4G VOLTE, 2G",4000 mAh
+"OPPO K1 (Astral Blue, 64 GB)  (4 GB RAM)",CPH1893,Dual Sim,16.28 cm (6.41 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 Octa Core 1.95 GHz,Octa Core,64 GB,4 GB,16MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3600 mAh
+"Google Pixel 3a (Just Black, 64 GB)  (4 GB RAM)",G020F,Single Sim,14.22 cm (5.6 inch),2220 x 1080 pixels,Qualcomm Snapdragon 670,Octa Core,64 GB,4 GB,12.2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"LG G7+ ThinQ (Black, 128 GB)  (6 GB RAM)",LMG710EAW,Dual Sim,15.49 cm (6.1 inch),3120 x 1440 Pixels,Qualcomm Snapdragon 845,Octa Core,128 GB,6 GB,16MP + 16MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"LG G7+ ThinQ (Platinum, 128 GB)  (6 GB RAM)",LMG710EAW,Dual Sim,15.49 cm (6.1 inch),3120 x 1440 Pixels,Qualcomm Snapdragon 845,Octa Core,128 GB,6 GB,16MP + 16MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Asus Zenfone 4 Selfie Pro (Gold, 64 GB)  (4 GB RAM)",ZD552KL-5G055IN,Dual Sim,13.97 cm (5.5 inch),1920 x 1080 Pixels,Octa Core Qualcomm Snapdragon 625,Octa Core,64 GB,4 GB,16MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Nokia 5.1 Plus (Black, 32 GB)  (3 GB RAM)",TA-1102 DS,Dual Sim,14.73 cm (5.8 inch),720 x 1520 pixels,MediaTek Helio P60,Octa Core,32 GB,3 GB,13MP + 5MP,"3G, 4G, 2G",3060 mAh
+Kechaoda K5  (Ligth Gold),K5,Dual Sim,4.57 cm (1.8 inch),128x160 Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+"Apple iPhone 11 (Yellow, 128 GB)",MWM42HN/A,Dual Sim,15.49 cm (6.1 inch),1792 x 828 Pixels,A13 Bionic Chip,128 GB,12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+Nokia 150/150 DS  (Black),RM-1190,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,NA,4 MB,4 MB,0.3MP,2G,1020 mAh
+MTR Ferrari  (Red),Ferrari,Dual Sim,4.5 cm (1.77 inch),120 x 240$$Pixels,64 MB,64 MB,0.3MP,2G,800 mAh
+"Samsung Galaxy S10 Plus (Ceramic Black, 512 GB)  (8 GB RAM)",SM-G975FCKGINS,Dual Sim,16.26 cm (6.4 inch),3040 x 1440 pixel,Exynos 9 9820,Octa Core,512 GB,8 GB,16MP + 12MP,"3G, 4G, 2G",4100 mAh
+"Apple iPhone 11 Pro (Gold, 64 GB)",MWC52HN/A,Dual Sim,14.73 cm (5.8 inch),2436 x 1125 Pixels,A13 Bionic Chip,64 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+Micromax X378  (Blue),X378,Dual Sim,4.5 cm (1.77 inch),240 x 320$$Pixels,32 MB,32 MB,1MP,2G,800 mAh
+"Samsung Galaxy S9 Plus (Burgundy Red, 64 GB)  (6 GB RAM)",SM-G965FZRDINS,Dual Sim,15.75 cm (6.2 inch),2960 x 1440 Pixels,Exynos 9810,Octa Core,64 GB,6 GB,12MP + 12MP,"3G, 4G, 2G",3500 mAh
+"Infinix Smart 2 (Serene Gold, 32 GB)  (3 GB RAM)",X5515I,Dual Sim,13.84 cm (5.45 inch),720 x 1440 Pixels,MTK6739 64 bit Quad Core,Quad Core,32 GB,3 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3050 mAh
+"Infinix Smart 2 (Sandstone Black, 32 GB)  (3 GB RAM)",X5515I,Dual Sim,13.84 cm (5.45 inch),720 x 1440 Pixels,MTK6739 64 bit Quad Core,Quad Core,32 GB,3 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3050 mAh
+"Moto G7 (Black, 64 GB)  (4 GB RAM)",XT1962-6,Dual Sim,15.75 cm (6.2 inch),2270 x 1080 pixels,Qualcomm Snapdragon 632,Octa Core,64 GB,4 GB,12MP + 5MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Samsung Galaxy S3 Neo (Marble White, 16 GB)  (1.5 GB RAM)",GT-I9300RWIINS/INU,Dual Sim,12.19 cm (4.8 inch),1280 x 720 Pixels,Cortex-A7,Quad Core,16 GB,1.5 GB,8MP,"3G, 2G",2100 mAh
+"Tork T27 Power  (Black, Green)",T27,Dual Sim,6.1 cm (2.4 inch),240 x 320$$pixel,32 MB,32 MB,0.3MP,2G,2500 mAh
+"OPPO Ravichandran Ashwin Limited Edition (Black, 64 GB)  (4 GB RAM)",Dual Sim,15.82 cm (6.23 inch),2280 x 1080 Pixels,MTK P60 Octa Core 2.0 GHz,Octa Core,64 GB,4 GB,16MP,"3G, 4G, 2G",3400 mAh
+Samsung Guru 1200  (Black),GT-E1200ZKYINS,Single Sim,3.81 cm (1.5 inch),128 x 128 Pixels,0 0 0 0 Processor,NA,2G,800 mAh
+"Apple iPhone 11 Pro Max (Silver, 256 GB)",MWHK2HN/A,Dual Sim,16.51 cm (6.5 inch),2688 x 1242 Pixels,A13 Bionic Chip,256 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+Forme N1  (Red+Black),N1,Dual Sim,4.57 cm (1.8 inch),128*160,32 MB,32 MB,0.3MP,2G,850 mAh
+Micromax X742  (Black&Red),X742,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,32 MB,32 MB,1MP,2G,1000 mAh
+Micromax X742  (Black),X742,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,32 MB,32 MB,1MP,2G,1000 mAh
+I Kall K29  (Red),K29,Dual Sim,4.57 cm (1.8 inch),128 x 160,64 MB,32 MB,0.3MP,2G,1800 mAh
+"Gionee S11 Lite (Dark Blue, 32 GB)  (4 GB RAM)",Dual Sim,14.48 cm (5.7 inch),1440 x 720 pixels,Snapdragon 430 Octa-core,Octa Core,32 GB,4 GB,13MP + 2MP,"3G, 4G, 2G",3030 mAh
+"Gionee S11 Lite (Black, 32 GB)  (4 GB RAM)",Dual Sim,14.48 cm (5.7 inch),1440 x 720 pixels,Snapdragon 430 Octa-core,Octa Core,32 GB,4 GB,13MP + 2MP,"3G, 4G, 2G",3030 mAh
+"Honor 9N (Robin Egg Blue, 64 GB)  (4 GB RAM)",LLD-AL20,Dual Sim,14.83 cm (5.84 inches),2280 x 1080 Pixels,Kirin 659 Octa Core,Octa Core,64 GB,4 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+"Infinix Note 5 (Berlin Gray, 32 GB)  (3 GB RAM)",X604,Dual Sim,15.21 cm (5.99 inch),1080 x 2160 pixels,Mediatek helio P23 Octa core,Octa Core,32 GB,3 GB,12MP,"3G, 4G VOLTE, 2G",4500 mAh
+"Alcatel Idol 4 (Dark Grey, 16 GB)  (3 GB RAM)",Dual Sim,13.21 cm (5.2 inch),1920 x 1080,MSM8952,Octa Core,16 GB,3 GB,13MP,"3G, 4G, 2G",2610 mAh
+"Alcatel Idol 4 (Metal Silver, 16 GB)  (3 GB RAM)",Dual Sim,13.21 cm (5.2 inch),1920 x 1080,MSM8952,Octa Core,16 GB,3 GB,13MP,"3G, 4G, 2G",2610 mAh
+"Samsung Galaxy A50s (Prism Crush Black, 128 GB)  (6 GB RAM)",SM-A507FZKWINS,Dual Sim,16.26 cm (6.4 inch),2340 x 1080 Pixels,Exynos 9611 - Octa-Core,Octa Core,128 GB,6 GB,48MP + 8MP +  5MP,"4G, 3G, 2G",4000 mAh
+"Honor 7S (Blue, 16 GB)  (2 GB RAM)",DUA-AL00,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,Mediatek MT6739 Cortex A53,Quad Core,16 GB,2 GB,13MP,"3G, 4G, 2G",3020 mAh
+"Apple iPhone 11 Pro Max (Space Grey, 512 GB)",MWHN2HN/A,Dual Sim,16.51 cm (6.5 inch),2688 x 1242 Pixels,A13 Bionic Chip,512 GB,12MP + 12MP + 12MP,"4G VOLTE, 4G, 3G, 2G"
+"Honor 9N (Robin Egg Blue, 32 GB)  (3 GB RAM)",LLD-AL20,Dual Sim,14.83 cm (5.84 inches),2280 x 1080 Pixels,Kirin 659 Octa Core,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+Samsung Guru FM Plus SM-B110E/D  (Dark Blue),SM-B110EABDINS,Dual Sim,3.81 cm (1.5 inch),128 x 128 Pixels,NA,2G,800 mAh
+"OPPO R17 (Neon Purple, 128 GB)  (8 GB RAM)",R17,Dual Sim,16.26 cm (6.4 inch),2340 x 1080$$Pixels,Octa Core,128 GB,8 GB,16MP,"3G, 4G, 2G",3500 mAh
+"OPPO R17 (Ambient Blue, 128 GB)  (8 GB RAM)",R17,Dual Sim,16.26 cm (6.4 inch),2340 x 1080$$Pixels,Octa Core,128 GB,8 GB,16MP,"3G, 4G, 2G",3500 mAh
+Niamia Cad V Combo of Two Mobiles  (Green),Cad V Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),320 x 240$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+"Niamia Cad V Combo of Two Mobiles  (Red, Black)",Cad V Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),320x240$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+Kechaoda K92  (Black),K92,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32 MB,0.3MP,2G,1700 mAh
+Niamia Cad IV Combo of Two Mobiles  (Blue&Gold),Cad IV Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),320 x 240$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+Niamia Cad V Combo of Two Mobiles  (Blue),Cad V Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),320 x 240$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+"Panasonic P100 (Gold, 16 GB)  (2 GB RAM)",EB-90S50P1CG,Dual Sim,12.7 cm (5 inch),1280 x 720 Pixels,Mediatek MTK 6737 Quad Core,Quad Core,16 GB,2 GB,8MP,"3G, 4G, 2G",2200 mAh
+"XOLO BLACK (Black, 16 GB)  (2 GB RAM)",Dual Sim,13.97 cm (5.5 inch),1920 x 1080 Pixels,Qualcomm Snapdragon 615 MSM8939 64-bit Cortex-A53,Octa Core,16 GB,2 GB,13MP,"3G, 4G, 2G",3200 mAh
+"Samsung Galaxy A50s (Prism Crush White, 128 GB)  (6 GB RAM)",SM-A507FZWWINS,Dual Sim,16.26 cm (6.4 inch),2340 x 1080 Pixels,Exynos 9611 - Octa-Core,Octa Core,128 GB,6 GB,48MP + 8MP +  5MP,"4G, 3G, 2G",4000 mAh
+I Kall K31 New Combo of Two Mobiles  (Blue),K31,Dual Sim,4.57 cm (1.8 inch),128 x 160$$Pixels,64 MB,32 MB,2G,800 mAh
+"Samsung Galaxy A50s (Prism Crush Violet, 128 GB)  (6 GB RAM)",SM-A507FZLWINS,Dual Sim,16.26 cm (6.4 inch),2340 x 1080 Pixels,Exynos 9611 - Octa-Core,Octa Core,128 GB,6 GB,48MP + 8MP +  5MP,"4G, 3G, 2G",4000 mAh
+Samsung Metro 313  (Black),SM-B313E,Dual Sim,5.16 cm (2.03 inch),128.160 Pixels,2.27 MB,4 MB,0.3MP,1000 mAh
+Ziox S333 Wifi  (Black&Champagne),S333 Wifi,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,64 MB,512 MB,0.3MP,2G,1400 mAh
+"Tork T27 Power  (Black, Green)",T27,Dual Sim,6.1 cm (2.4 inch),240 x 320$$pixel,32 MB,32 MB,0.3MP,2G,2500 mAh
+Forme N1  (Red+Black),N1,Dual Sim,4.57 cm (1.8 inch),128*160,32 MB,32 MB,0.3MP,2G,850 mAh
+I Kall K18 New  (Black),K18 New,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,800 mAh
+"Redmi Note 7 (Sapphire Blue, 64 GB)  (4 GB RAM)",MZB7266IN,Dual Sim,16.0 cm (6.3 inch),2340 x 1080 pixels,Qualcomm Snapdragon 660 AIE,Octa Core,64 GB,4 GB,12MP + 2MP,"3G, 4G VOLTE, 2G",4000 mAh
+Itel Power 400  (Light Blue),It5617,Dual Sim,6.1 cm (2.4 inch),320 x 240$$Pixels,32 MB,32 MB,0.3MP,2G,2500 mAh
+I Kall K18 New  (Dark Blue),K18 New,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,800 mAh
+"Moto G7 Power (Ceramic Black, 64 GB)  (4 GB RAM)",PAE90000IN,Dual Sim,15.75 cm (6.2 inch),1570 x 720 pixels,Qualcomm Snapdragon 632,Octa Core,64 GB,4 GB,12MP,"3G, 4G, 2G",5000 mAh
+"Redmi Note 6 Pro (Black, 64 GB)  (4 GB RAM)",MZB6876IN,Dual Sim,15.9 cm (6.26 inch),2280 x 1080 pixels,Qualcomm Snapdragon 636,Octa Core,64 GB,4 GB,12MP + 5MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"XOLO T1000 (Black, 4 GB)  (1 GB RAM)",Single Sim,11.94 cm (4.7 inch),1280 x 720 Pixels,NVIDIA Tegra 3,Quad Core,4 GB,1 GB,8MP,3G,2000 mAh
+Micromax X1i-2017  (Blue),X1i-2017,Dual Sim,6.1 cm (2.4 inch),320 x 480 Pixels,32 MB,32 MB,0.08MP,2G,1300 mAh
+"Infinix Hot 7 (Mocha Brown, 64 GB)  (4 GB RAM)",X625C,Dual Sim,15.72 cm (6.19 inch),1500 x 720 pixels,Helio P25 (MTK6757CD),Octa Core,64 GB,4 GB,13MP + 2MP,"4G, 3G, 2G",4000 mAh
+"OPPO A1K (Black, 32 GB)  (2 GB RAM)",CPH1923,Dual Sim,15.49 cm (6.1 inch),720 x 1560 pixels,MT6762R,Octa Core,32 GB,2 GB,8MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+"Infinix Hot 7 (Aqua Blue, 64 GB)  (4 GB RAM)",X625C,Dual Sim,15.72 cm (6.19 inch),1500 x 720 pixels,Helio P25 (MTK6757CD),Octa Core,64 GB,4 GB,13MP + 2MP,"4G, 3G, 2G",4000 mAh
+"OPPO A5s (Red, 32 GB)  (3 GB RAM)",CPH1909,Dual Sim,15.75 cm (6.2 inch),1520 x 720 pixels,MTK MT6765,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+Itel It2171  (City Blue),It2171,Dual Sim,4.57 cm (1.8 inch),320 x 240$$Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+Samsung Guru Music 2  (Blue),SM-B310EZBDINS,Dual Sim,5.08 cm (2 inch),128 x 160 Pixels,0 0 0 208MHz,NA,2G,800 mAh
+"Samsung Galaxy A20s (Green, 32 GB)  (3 GB RAM)",SM-A207FZGDINS,Dual Sim,16.51 cm (6.5 inch),720 x 1520 Pixels,Qualcomm SDM450-B01,Octa Core,32 GB,3 GB,13MP + 8MP +  5MP,"4G, 3G, 2G",4000 mAh
+Karbonn K24 Plus Pro  (Grey Black),K24 Plus Pro,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,1800 mAh
+"Redmi Note 5 Pro (Rose Gold, 64 GB)  (4 GB RAM)",MZB6082IN / MZB6090IN,Dual Sim,15.21 cm (5.99 inch),2160 x 1080 Pixels,Qualcomm Snapdragon 636,Octa Core,64 GB,4 GB,12MP + 5MP,"3G, 4G VOLTE, 4G",4000 mAh
+Itel It2171  (Sun Red),It2171,Dual Sim,4.57 cm (1.8 inch),320 x 240$$Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+"Mi 4i (Yellow, 16 GB)  (2 GB RAM)",MZB4427IN,Dual Sim,12.7 cm (5 inch),1920 x 1080 Pixels,2nd-gen Snapdragon 615 64-bit octa-core,Octa Core,16 GB,2 GB,13MP,"3G, 4G, 2G",3030 mAh
+Karbonn K140 Pop  (White),K140 Pop,Dual Sim,4.57 cm (1.8 inch),128 x 160$$Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+Niamia CAD 1 Combo of Two Mobiles  (Grey&White),CAD 1,Dual Sim,4.57 cm (1.8 inch),320*240,32 MB,32 MB,0.08MP,2G,1000 mAh
+Jivi X93 Grand  (Black),X93,Dual Sim,4.57 cm (1.8 inch),128x160 Pixels,NA,32 MB,32 MB,0.3MP + 0MP,2G,2750 mAh
+"OPPO A83 (2018 Edition) (Blue, 64 GB)  (4 GB RAM)",Dual Sim,14.48 cm (5.7 inch),1440 x 720 Pixels,MT6763T,Octa Core,64 GB,4 GB,13MP,"3G, 4G VOLTE, 2G",3180 mAh
+Karbonn Kx23  (White&Rose Gold),Kx23,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,32 MB,20 MB,0.3MP,2G,1900 mAh
+"Honor 6 Plus (Black, 32 GB)  (3 GB RAM)",PE-TL10,Single Sim,13.97 cm (5.5 inch),1920 x 1080 Pixels,Hisilicon Kirin 925 Cortex-A15 + Cortex-A7,Octa Core,32 GB,3 GB,8MP + 8MP,"3G, 4G, 2G",3600 mAh
+Micromax X930  (Red),X930,Dual Sim,7.11 cm (2.8 inch),320 x 240$$Pixels,20 MB,20 MB,0.2MP,2G,3000 mAh
+"Redmi 5 (Lake Blue, 64 GB)  (4 GB RAM)",MDI 1,Dual Sim,14.48 cm (5.7 inch),1440 x 720$$Pixels,Octa Core,64 GB,4 GB,12MP,"3G, 4G VOLTE, 2G",3300 mAh
+Jivi Banana 6  (Yellow),Banana 6,Dual Sim,6.1 cm (2.4 inch),320 x 240 Pixels,NA,32 MB,32 MB,0.3MP + 0.3MP,2G,1000 mAh
+Gfive Fire  (Orange),Fire,Dual Sim,6.1 cm (2.4 inch),320 x 240 Pixels,32 MB,32 MB,0.3MP,2G,1800 mAh
+"Samsung Galaxy A30s (Prism Crush Violet, 64 GB)  (4 GB RAM)",SM-A307FZLVINS,Dual Sim,16.26 cm (6.4 inch),1560 x 720 pixels,Exynos 7904,Octa Core,64 GB,4 GB,25MP + 8MP +  5MP,"4G, 3G, 2G",4000 mAh
+Jivi N9030  (Black&Gold),N9030,Dual Sim,7.11 cm (2.8 inch),240 x 320$$Pixels,NA,16 MB,1 MB,0.03MP + 0MP,2G,3000 mAh
+"Samsung Galaxy S9 (Midnight Black, 128 GB)  (4 GB RAM)",SM-G960FZKGINS,Dual Sim,14.73 cm (5.8 inch),2960 x 1440 Pixels,Exynos 9810,Octa Core,128 GB,4 GB,12MP,"3G, 4G, 2G",3000 mAh
+Jivi N9030  (Blue&Gold),N9030,Dual Sim,7.11 cm (2.8 inch),240 x 320$$Pixels,NA,16 MB,1 MB,0.03MP + 0MP,2G,3000 mAh
+"Samsung Galaxy M30 (Gradation Black, 64 GB)  (4 GB RAM)",Galaxy M30,Dual Sim,16.26 cm (6.4 inch),1080 x 2340$$Pixels,Quad Core,64 GB,4 GB,13MP,"3G, 4G, 2G",5000 mAh
+Kechaoda K66 Plus  (Black & Grey),K66 Plus,Dual Sim,4.5 cm (1.77 inch),320 x 480 Pixels,32 MB,32 MB,0.3MP,2G,850 mAh
+Itel IT 2163  (Red),IT 2163,Dual Sim,4.57 cm (1.8 inch),160 x 120$$Pixels,32 MB,32 MB,2G,1000 mAh
+"Redmi 6 (Gold, 64 GB)  (3 GB RAM)",MZB6662IN,Dual Sim,13.84 cm (5.45 inch),1440 x 720 pixels,2.0 GHz Mediatek P22 Octacore,Octa Core,64 GB,3 GB,12MP + 5MP,"3G, 4G VOLTE, 2G",3000 mAh
+Lava 34 Super  (Black Red),34 Super,Dual Sim,6.1 cm (2.4 inch),240 x 320 pixels,SC6531E,32 MB,32 MB,1.3MP,2G,2500 mAh
+"Apple iPhone XR (White, 64 GB)",MRY52HN/A,Dual Sim,15.49 cm (6.1 inch),1792 x 828 pixels,A12 Bionic Chip,64 GB,12MP,"3G, 4G, 2G"
+"Lenovo K10 Plus (Sprite, 64 GB)  (4 GB RAM)",PAGW0015IN,Dual Sim,15.8 cm (6.22 inch),720 x 1520 pixels,Qualcomm SDM632,Octa Core,64 GB,4 GB,13MP + 5MP + 8MP,"4G, 2G, 3G",4050 mAh
+Tork X1  (Blue Green),X1,Dual Sim,4.57 cm (1.8 inch),128 x 160$$pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+Samsung Guru FM Plus SM-B110E/D  (Black),SM-B110EZKDINS,Dual Sim,3.81 cm (1.5 inch),128 x 128,NA,2G,800 mAh
+I Kall K34 Combo of Two Mobiles  (Black&Green$$Black&Green),K34 Combo of Two Mobiles,Dual Sim,4.57 cm (1.8 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+Samsung Guru GT  (Black),GT-E1200ZKYINS,Single Sim,3.81 cm (1.5 inch),128*128,0 0 0 0 Processor,153 MB,153 MB,800 mAh
+XCCESS X493 Selfie  (Blue&Red),X493 Selfie,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+Nokia 216/216 DS  (Black),RM-1187,Dual Sim,6.1 cm (2.4 inch),320 x 240 Pixels,0 0 0 0 Processor,NA,16 MB,0.3MP,2G,1020 mAh
+I Kall K11  (Red),K11,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixxels,64 MB,32 MB,0.3MP,2G,1000 mAh
+"Samsung Galaxy S9 Plus (Lilac Purple, 64 GB)  (6 GB RAM)",SM-G965FZPDINS,Dual Sim,15.75 cm (6.2 inch),2960 x 1440 Pixels,Exynos 9810,Octa Core,64 GB,6 GB,12MP + 12MP,"3G, 4G, 2G",3500 mAh
+Blackbear B5 Click+  (Black&Grey),B5 Click+,Dual Sim,4.57 cm (1.8 inch),240 x 320$$Pixels,64 MB,64 MB,2.4MP,2G,1000 mAh
+Karbonn K444 Shakti  (Black),K444,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,NA,512 MB,128 MB,1MP,2G,4000 mAh
+"Redmi K20 (Flame Red, 128 GB)  (6 GB RAM)",MZB7759IN,Dual Sim,16.23 cm (6.39 inch),2340 x 1080 pixels,Qualcomm Snapdragon 730,Octa Core,128 GB,6 GB,48MP + 13MP + 8MP,"4G VOLTE, 3G, 2G",4000 mAh
+Kechaoda Stylish Bold K101  (Gold),K101,Dual Sim,6.1 cm (2.4 inch),280 x 360 Pixels,32 MB,32 MB,0.03MP,2G,1700 mAh
+Nokia 130  (Red),TA-1017,Dual Sim,4.57 cm (1.8 inch),160 x 128 Pixels,4 MB,0.3MP,2G,1020 mAh
+"Samsung Galaxy Note 9 (Lavender Purple, 128 GB)  (6 GB RAM)",SM-N960FZPDINS,Dual Sim,16.26 cm (6.4 inch),2960 x 1440 Pixels,Octa Core,128 GB,6 GB,12MP + 12MP,"3G, 4G, 2G",4000 mAh
+I Kall K 55  (Red),K55,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,64 MB,32 MB,0.3MP,2G,1000 mAh
+Poya P5  (Sky Grey),P5,Dual Sim,4.57 cm (1.8 inch),320 x 240 Pixels,10 MB,10 MB,0.3MP,2G,1000 mAh
+Samsung Guru Music 2  (Blue),SM-B310EZBDINS,Dual Sim,5.08 cm (2 inch),128 x 160 Pixels,0 0 0 208MHz,NA,2G,800 mAh
+"OPPO A1K (Black, 32 GB)  (2 GB RAM)",CPH1923,Dual Sim,15.49 cm (6.1 inch),720 x 1560 pixels,MT6762R,Octa Core,32 GB,2 GB,8MP,"3G, 4G VOLTE, 4G, 2G",4000 mAh
+Forme D10  (Black & Blue),D10,Dual Sim,4.5 cm (1.77 inch),320 x 120$$Pixels,12 MB,12 MB,1.2MP,2G,2500 mAh
+Zen X62  (Black & Orange),X62,Dual Sim,4.57 cm (1.8 inch),240 x 320 Pixels,1.3MP,2G,1750 mAh
+Tambo S2430  (Black&Red),S2430,Dual Sim,6.1 cm (2.4 inch),240x320 Pixels,24 MB,24 MB,0.3MP,2G,1900 mAh
+InFocus Selfie C1  (Black),if9011,Dual Sim,4.57 cm (1.8 inch),320 x 240 Pixels,32 MB,32 MB,1.3MP,2G,1000 mAh
+"OPPO A5s (Red, 32 GB)  (3 GB RAM)",CPH1909,Dual Sim,15.75 cm (6.2 inch),1520 x 720 pixels,MTK MT6765,Octa Core,32 GB,3 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4230 mAh
+"Infinix Hot 7 (Mocha Brown, 64 GB)  (4 GB RAM)",X625C,Dual Sim,15.72 cm (6.19 inch),1500 x 720 pixels,Helio P25 (MTK6757CD),Octa Core,64 GB,4 GB,13MP + 2MP,"4G, 3G, 2G",4000 mAh
+"Infinix Hot 7 (Aqua Blue, 64 GB)  (4 GB RAM)",X625C,Dual Sim,15.72 cm (6.19 inch),1500 x 720 pixels,Helio P25 (MTK6757CD),Octa Core,64 GB,4 GB,13MP + 2MP,"4G, 3G, 2G",4000 mAh
+Karbonn KX24  (Black&Grey),KX24,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,3000 mAh
+Karbonn K31  (Black & Red),K31,Dual Sim,6.1 cm (2.4 inch),320x240$$Pixels,64 MB,64 MB,0.3MP,2G,1800 mAh
+Gfive Z2  (Gold),Z2,Dual Sim,6.1 cm (2.4 inch),180 x 160 Pixels,20 MB,128 MB,2MP,2G,1500 mAh
+Mymax M40  (Green),Dual Sim,4.57 cm (1.8 inch),320 x 400 Pixels,32 MB,32 MB,1.3MP,2G,1000 mAh
+Lava 34 Super  (Black Red),34 Super,Dual Sim,6.1 cm (2.4 inch),240 x 320 pixels,SC6531E,32 MB,32 MB,1.3MP,2G,2500 mAh
+MTR 227  (Black&Red),227,Dual Sim,4.5 cm (1.77 inch),120 x 240$$Pixels,64 MB,64 MB,0.08MP,2G,800 mAh
+Do M3  (Black),M3,Dual Sim,4.57 cm (1.8 inch),128x160 Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+MTR 227  (Blue&Black),227,Dual Sim,4.5 cm (1.77 inch),120 x 240$$Pixels,64 MB,64 MB,0.08MP,2G,800 mAh
+Zen Z8 DJ  (Black & Red),Z8,Dual Sim,6.1 cm (2.4 inch),480 x 854 Pixels,50 KB,1.3MP,2G,2800 mAh
+Intex Turbo 210 Plus  (Coffee&Black),Turbo 210+,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,32 MB,32 MB,1.3MP,2G,1700 mAh
+"Vivo Y91 (Starry Black, 32 GB)  (2 GB RAM)",1816/PD1818GF_EX,Dual Sim,15.8 cm (6.22 inch),1520 x 720 pixels,Helio P22 (MTK6762R),Octa Core,32 GB,2 GB,13MP + 2MP,"3G, 4G VOLTE, 4G, 2G",4030 mAh
+"Inovu A7 Combo Of Two Mobiles  (White&Red, Black&Red)",A7 Combo Of Two Mobiles,Dual Sim,4.5 cm (1.77 inch),160 x 128$$Pixels,32 MB,32 MB,0.08MP,2G,1000 mAh
+I Kall K34 NEW Combo of Two  (Red & Green),K34 NEW Combo of Two,Dual Sim,4.57 cm (1.8 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+Blackbear i7  (Gold),i7,Dual Sim,6.1 cm (2.4 inch),420X320$$Pixels,64 MB,64 MB,1.8MP,2G,1450 mAh
+Blackbear i7  (White),i7,Dual Sim,6.1 cm (2.4 inch),420X320$$Pixels,64 MB,64 MB,1.8MP,2G,1450 mAh
+"Redmi 6A (Gold, 16 GB)  (2 GB RAM)",M1804C3CI,Dual Sim,13.84 cm (5.45 inch),720 x 1440 Pixels,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 2G",3000 mAh
+MTR Hero  (White),Hero,Dual Sim,4.5 cm (1.77 inch),120 x 240 Pixels,64 MB,64 MB,0.3MP,2G,800 mAh
+Forme Turbo1  (Black&Red),Turbo1,Dual Sim,4.57 cm (1.8 inch),240 x 320$$Pixels,15 MB,12 MB,1.2MP,2G,1800 mAh
+JIVI 12M  (Black and Green),12M,Dual Sim,4.57 cm (1.8 inch),169 X 128 Pixel,32 KB,1 MB,2G,1000 mAh
+MTR Mt Smart  (White),Mt Smart,Dual Sim,4.57 cm (1.8 inch),120 x 240 Pixels,64 MB,64 MB,0.3MP,2G,800 mAh
+"Infinix Note 5 (Ice Blue, 64 GB)  (4 GB RAM)",X604B,Dual Sim,15.21 cm (5.99 inch),1080 x 2160 pixels,Mediatek helio P23 Octa core,Octa Core,64 GB,4 GB,12MP,"3G, 4G VOLTE, 2G",4500 mAh
+Tambo A1805  (Blue),A1805,Dual Sim,4.57 cm (1.8 inch),128 x 160$$ Pixels,24 MB,24 MB,2G,1000 mAh
+"HTC Desire 816G (Octa Core) (White, 16 GB)  (1 GB RAM)",D816h,Dual Sim,13.97 cm (5.5 inch),1280 x 720 Pixels,Octa Core,16 GB,1 GB,13MP,3G,2600 mAh
+"VOTO V11 (Black, 16 GB)  (2 GB RAM)",Dual Sim,12.7 cm (5 inch),1280 x 720 pixels,Spreadtrum 9832,Quad Core,16 GB,2 GB,13MP,"3G, 4G VOLTE, 4G, 2G",3000 mAh
+Micromax X809  (Black),X809,Dual Sim,6.1 cm (2.4 inch),240 x 320$$Pixels,32 MB,32 MB,1MP,2G,1000 mAh
+Samsung Guru Music 2  (Gold),SM-B310EZDDINS,Dual Sim,5.08 cm (2 inch),128 x 160 Pixels,NA,2G,800 mAh
+"Lenovo A5 (Black, 32 GB)  (3 GB RAM)",PADJ0040CN/PADJ0056IN,Dual Sim,13.84 cm (5.45 inch),720 x 1440 pixels,MediaTek MT6739,Quad Core,32 GB,3 GB,13MP,"3G, 4G, 2G",4000 mAh
+Gfive Z2  (Gold),Z2,Dual Sim,6.1 cm (2.4 inch),180 x 160 Pixels,20 MB,128 MB,2MP,2G,1500 mAh
+BlackZone Genius  (Silver & White),Genius,Dual Sim,4.57 cm (1.8 inch),320 x 240 Pixels,1 MB,1 MB,0.3MP,2G,1000 mAh
+"VIVO V9 YOUTH (Black, 32 GB)  (4 GB RAM)",V9 YOUTH,Dual Sim,16.0 cm (6.3 inch),FHD+,Octa Core,32 GB,4 GB,16MP,4G VOLTE,3260 mAh
+"Panasonic P100 (Black, 16 GB)  (1 GB RAM)",EB-90S50P1CK,Dual Sim,12.7 cm (5 inch),1280 x 720 Pixels,Mediatek MTK 6737 Quad Core,Quad Core,16 GB,1 GB,8MP,"3G, 4G, 2G",2200 mAh
+Karbonn K31  (Black & Red),K31,Dual Sim,6.1 cm (2.4 inch),320x240$$Pixels,64 MB,64 MB,0.3MP,2G,1800 mAh
+"Samsung Galaxy A50 (White, 64 GB)  (6 GB RAM)",SM-A505FZWGINS,Dual Sim,16.26 cm (6.4 inch),1080 x 2340 pixels,Exynos 9610,Octa Core,64 GB,6 GB,25MP + 5MP + 8MP,"3G, 4G, 2G",4000 mAh
+Philips E105  (Black),E105,Dual Sim,4.57 cm (1.8 inch),128 x 160 Pixels,32 MB,32 MB,0.3MP,2G,800 mAh
+Good One Magic  (Yellow),Magic,Dual Sim,4.32 cm (1.7 inch),240 x 320$$Pixels,32 MB,32 MB,0.3MP,2G,1000 mAh
+Kara K16  (Gold & Black / Golden),K-16,Dual Sim,4.57 cm (1.8 inch),320 x 240 Pixels,1 MB,1 MB,0.3MP,2G,1700 mAh
+Karbonn K49 Rock  (Black & Red),K49 Rock,Dual Sim,6.1 cm (2.4 inch),240 x 320 Pixels,32 MB,32 MB,0.3MP,2G,1750 mAh
